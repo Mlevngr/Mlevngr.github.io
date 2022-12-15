@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Bochen Ye(叶波辰)"
-description              : "I am a first year master student of Eindhoven University of Technology. "
+description              : "First-year Master in Electrical Engneering. Focusing on VLSI."
 repository               : "BoChen-Ye/BoChen-Ye.github.io"
 google_scholar_stats_use_cdn : False
 
@@ -23,11 +23,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Bochen Ye(叶波辰)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Master of Electrical Engneering, Eindhoven University of Technology, Netherlands"
+  bio              : "Eindhoven University of Technology"
   location         : "Eindhoven, Netherlands"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "b.ye@student.tue.nl"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "github BoChen-Ye"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "https://www.linkedin.com/in/bochen-ye-455a42245/"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
