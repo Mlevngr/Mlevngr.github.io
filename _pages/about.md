@@ -16,19 +16,18 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+I am studying at TU/e for my master degree.
 
-I graduated from Hefei University of Technology with a bachelor’s degree. I am skilled in VLSI Design, Verilog HDL, FPGA.
+I am interested in VLSI Design, AI Hardware Accelerator, NoC.
 
-%My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+I am looking for internship and Master thesis for my second year.
 
 # 🔥 News
-- *2022.07*: &nbsp;🎉🎉 . 
-- *2022.02*: &nbsp;🎉🎉 . 
+- *2022.07*: &nbsp;🎉🎉 I am graduated from Hefei University of Technology with a bachelor’s degree, supervised by Zhenmin Li.  
 # 📖 Educations
 - *2022.09 - now*, Master in Eletrical Engneering(track:Electric System), Eindhoven University of Technology, Netherlands
 	
-	*Relevant Course*:Digital integrated circuit design, Embedded computer architecture, Electronic design automation,
+	*Relevant Course*: Digital integrated circuit design, Embedded computer architecture, Electronic design automation,
 					Applied combinatorial algorithms, Intelligent architectures, Systems on silicon, Neuro computation.
 - *2018.09 - 2022.06*, Bachelor in Integrated Circuit Design and Integrated Systems, Hefei University of Technology, Hefei, China
 	
@@ -41,11 +40,30 @@ I graduated from Hefei University of Technology with a bachelor’s degree. I am
 - *2022,* My bachelor thesis of NoC get A grade.
 - *2021/2022,* Unergraduate Scholarship. 
 # 🔥 Project
+- *2022.11 - 2023.01,* Full Custom 16-bit Brent-Kung Adder Design. 
 
-# 📝 Publications 
+	Completed CMOS circuit design and layout design for a 45nm full custom 16-bit Brent-Kung adder. 
+	Circuit design and layout design via Cadence Virtuoso, DRC and LVS verification of the layout using Calibre. 
+	The circuit design can be functionally verified by simulation at 500MHz, 90◦C with an output rise and fall time of less than 100ps, and the layout results can be functionally verified at a post-simulation of 500MHz.
 
+- *2021.04 - 2021.06,* Five-stage pipelined RISC-V processor with full hazard handling. 
 
+	I have implemented a RISC-V five-stage pipeline processor with full hazard handling. The RTL level design
+	using Verilog and simulated in Modelsim for simulation. The processor can run the basic RV32i instructions,
+	solves data conflicts, structure conflicts, and control conflicts, and supports stalling, flushing and forwarding.
+
+- *2020.10 - 2020.11,* VLSI Simulation and Synthesis.	
+
+	Use VCS to verify the function of Tinycore based on RISC-V on the test platform.
+	Use DC compiler to synthesize four different hardware description ALUs, and analyze the comprehensive report
+	to compare and analyze different parameters.
 # 💻 Internships
-- *2021.10 - 2022.05. Research Intern*, Institute of VLSI Design of HFUT.
+- *2021.10 - 2022.05, Research Intern*, Institute of VLSI Design of HFUT.
 	
-	Investigate the background of Network on Chip router, and improve the Packet Connected Circuit(PCC)-based NoC router structure and routing algorithm. The RTL level design of the router using Verilog and its implementation and verification on FPGA. My graduation thesis received A grade, and this project was continued to be improved by other student to prepare for publication.
+	Investigate the background of Network on Chip router, and improve the Packet Connected Circuit(PCC)-based NoC router structure and routing algorithm. 
+	The RTL level design of the router using Verilog and its implementation and verification on FPGA. My graduation thesis received A grade, and this project was continued to be improved by other student to prepare for publication.
+
+# 📝 Skill & Publications 
+- Verilog · FPGA · MS Office · Linux · Cadence Tool
+- Python · C++ · SystemC · MATLAB · LaTex · CUDA · Pytorch
+- Mandarian(Native), TOEFL(iBT) 92
