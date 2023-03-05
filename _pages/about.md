@@ -17,37 +17,31 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I graduated from Hefei University of Technology with a bachelor’s degree. I am skilled in Verilog HDL, FPGA, Latex.
+I graduated from Hefei University of Technology with a bachelor’s degree. I am skilled in VLSI Design, Verilog HDL, FPGA.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+%My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 . 
 - *2022.02*: &nbsp;🎉🎉 . 
+# 📖 Educations
+- *2022.09 - now*, Master in Eletrical Engneering(track:Electric System), Eindhoven University of Technology, Netherlands
+	*Relevant Course*:Digital integrated circuit design, Embedded computer architecture, Electronic design automation,
+					Applied combinatorial algorithms, Intelligent architectures, Systems on silicon, Neuro computation.
+- *2018.09 - 2022.06*, Bachelor in Integrated Circuit Design and Integrated Systems, Hefei University of Technology, Hefei, China
+	*GPA*: 83.1/100 (TOP 22%)
+	*Relevant Class*: Analysis and Design of Integrated Digital Circuit, Microprocessor architecture and design,
+					Introduction to SoC design, Verilog HDL and FPGA implementation and so on.
+					
+# 🎖 Honors and Awards
+- *2022.* My bachelor thesis [The Research and Implementation of Router for Packet Connect Circuit Network-on-chip] get A grade.
+- *2021/2022.* Unergraduate Scholarship. 
+#  Project
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.* Unergraduate Scholarship. 
-
-# 📖 Educations
-- *2022.09 - 2024.09 (now)*, Master in Eletrical Engneering, Eindhoven University of Technology, Netherlands. 
-- *2018.09 - 2022.06*, Bachelor in Integrated Circuit Design and Integrated Systems, Hefei University of Technology, Hefei, China 
 
 # 💻 Internships
-- 
+- *2021.10 - 2022.05. Research Intern*, Institute of VLSI Design of HFUT.
+	Investigate the background of Network on Chip router, and improve the Packet Connected Circuit(PCC)-based NoC router structure and routing algorithm. The RTL level design of the router using Verilog and its implementation and verification on FPGA. My graduation thesis received A grade, and this project was continued to be improved by other student to prepare for publication.
