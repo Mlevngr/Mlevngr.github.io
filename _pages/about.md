@@ -24,6 +24,12 @@ I am looking for internship and Master thesis for my second year.
 
 # 🔥 News
 - *2022.07*: &nbsp;🎉🎉 I am graduated from Hefei University of Technology with a bachelor’s degree, supervised by Zhenmin Li.  
+
+# 📝 Skill & Publications 
+- Verilog · FPGA · MS Office · Linux · Cadence Tool
+- Python · C++ · SystemC · MATLAB · LaTex · CUDA · Pytorch · Perl
+- Mandarian(Native), TOEFL(iBT) 92
+
 # 📖 Educations
 - *2022.09 - now*, Master in Eletrical Engneering(track:Electric System), Eindhoven University of Technology, Netherlands
 	
@@ -36,10 +42,6 @@ I am looking for internship and Master thesis for my second year.
 	
 	*Relevant Class*: Analysis and Design of Integrated Digital Circuit, Microprocessor architecture and design,
 					Introduction to SoC design, Verilog HDL and FPGA implementation and so on.
-					
-# 🎖 Honors and Awards
-- *2022,* My bachelor thesis of NoC get A grade.
-- *2021/2022,* Unergraduate Scholarship. 
 
 # 🔥 Project
 - *2022.11 - 2023.01,* **Full Custom 16-bit Brent-Kung Adder Design**
@@ -48,7 +50,7 @@ I am looking for internship and Master thesis for my second year.
 	Circuit design and layout design via Cadence Virtuoso, DRC and LVS verification of the layout using Calibre. 
 	The circuit design can be functionally verified by simulation at 500MHz, 90◦C with an output rise and fall time of less than 100ps, and the layout results can be functionally verified at a post-simulation of 500MHz.
 
-- *2021.04 - 2021.06,* [**Five-stage pipelined RISC-V processor with full hazard handling**](https://github.com/BoChen-Ye/RISC-V-five-stage-CPU)
+- *2023.02 - 2023.03,* [**Five-stage pipelined RISC-V processor with full hazard handling**](https://github.com/BoChen-Ye/RISC-V-five-stage-CPU)
 
 	I have implemented a RISC-V five-stage pipeline processor with full hazard handling. The RTL level design
 	using Verilog and simulated in Modelsim for simulation. The processor can run the basic RV32i instructions,
@@ -66,7 +68,6 @@ I am looking for internship and Master thesis for my second year.
 	Investigate the background of Network on Chip router, and improve the [Packet Connected Circuit(PCC)-based NoC router](https://github.com/BoChen-Ye/Network-on-Chip-Router-Based-on-Packet-Connected-Circuit) structure and routing algorithm. 
 	The RTL level design of the router using Verilog and its implementation and verification on FPGA. My graduation thesis received A grade, and this project was continued to be improved by other student to prepare for publication.
 
-# 📝 Skill & Publications 
-- Verilog · FPGA · MS Office · Linux · Cadence Tool
-- Python · C++ · SystemC · MATLAB · LaTex · CUDA · Pytorch · Perl
-- Mandarian(Native), TOEFL(iBT) 92
+# 🎖 Honors and Awards
+- *2022,* My bachelor thesis of NoC get A grade.
+- *2021/2022,* Unergraduate Scholarship. 
