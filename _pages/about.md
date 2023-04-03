@@ -58,13 +58,13 @@ I am looking for internship and Master thesis for my second year.
 
 - *2022.11 - 2023.01,* **Full Custom 16-bit Brent-Kung Adder Design**
 
-	Completed CMOS circuit design and layout design for a 45nm full custom 16-bit Brent-Kung adder. 
+	- Completed CMOS circuit design and layout design for a 45nm full custom 16-bit Brent-Kung adder. 
 	Circuit design and layout design via Cadence Virtuoso, DRC and LVS verification of the layout using Calibre. 
 	The circuit design can be functionally verified by simulation at 500MHz, 90◦C with an output rise and fall time of less than 100ps, and the layout results can be functionally verified at a post-simulation of 500MHz.
 
 - *2022.12 - 2023.01,* **Implementation of image processing kernels on CUDA**
 
-	Mapping Grayscale processing and convolution 2D kernels from C to CUDA and optimaize the loop, then running on the Nvidia GPU.
+	- Mapping Grayscale processing and convolution 2D kernels from C to CUDA and optimaize the loop, then running on the Nvidia GPU.
 	The result is that the processing time of 13 images is accelerated from 4872ms to 27ms.
 
 - *2020.10 - 2020.11,* **VLSI Simulation and Synthesis**	
