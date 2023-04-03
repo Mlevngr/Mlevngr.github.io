@@ -27,7 +27,7 @@ I am looking for internship and Master thesis for my second year.
 
 # 📝 Skill & Publications 
 - Verilog · FPGA · MS Office · Linux · Cadence Tool
-- Python · C++ · SystemC · MATLAB · LaTex · CUDA · Pytorch · Perl
+- Python · C/C++ · SystemC · MATLAB · LaTex · CUDA · Pytorch · Perl
 - Mandarian(Native), TOEFL(iBT) 92
 
 # 📖 Educations
@@ -46,11 +46,9 @@ I am looking for internship and Master thesis for my second year.
 # 🔥 Project
 - *2023.02 - 2023.04,* **Intelligent Architecture Lab**
 
-	Train [a multilayer perceptron for handwritten digit classification(MNIST)](https://github.com/BoChen-Ye/MNIST-handwritten-digit-classification) using the PyTorch framework.
-
-    Optimize a VGG5 for image classification using various quantization and pruning techniques. Explore the impact of these techniques on both accuracy and compute cost.
-	
-    Using open source [Tensil AI](https://www.tensil.ai/) for generating tensor computing units, compiling and running ML models on it. Accelerating matrix-multiplication for machine learning, using systolic array architecture.
+	- Train [a multilayer perceptron for handwritten digit classification(MNIST)](https://github.com/BoChen-Ye/MNIST-handwritten-digit-classification) using the PyTorch framework.
+	- Optimize a VGG5 for image classification using various quantization and pruning techniques. Explore the impact of these techniques on both accuracy and compute cost.
+	- Use open source [Tensil AI](https://www.tensil.ai/) for generating tensor computing units, compiling and running ML models on it. Accelerating matrix-multiplication for machine learning, using systolic array architecture.
 
 - *2023.02 - 2023.03,* [**Five-stage pipelined RISC-V processor with full hazard handling**](https://github.com/BoChen-Ye/RISC-V-five-stage-CPU)
 
@@ -71,9 +69,8 @@ I am looking for internship and Master thesis for my second year.
 
 - *2020.10 - 2020.11,* **VLSI Simulation and Synthesis**	
 
-	Use VCS to verify the function of Tinycore based on RISC-V on the test platform.
-
-	Use DC compiler to synthesize four different hardware description ALUs, and analyze the comprehensive report
+	- Use VCS to verify the function of Tinycore based on RISC-V on the test platform.
+	- Use DC compiler to synthesize four different hardware description ALUs, and analyze the comprehensive report
 	to compare and analyze different parameters.
 
 # 💻 Internships
