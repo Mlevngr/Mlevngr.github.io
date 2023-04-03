@@ -67,7 +67,7 @@ I am looking for internship and Master thesis for my second year.
 	- Mapping Grayscale processing and convolution 2D kernels from C to CUDA and optimaize the loop, then running on the Nvidia GPU.
 	The result is that the processing time of 13 images is accelerated from 4872ms to 27ms.
 
-- *2021.04 - 2024.06,* **A single-cycle CPU compatible with Microchip PIC16F54 microprocessor**	
+- *2021.04 - 2021.06,* **A single-cycle CPU compatible with Microchip PIC16F54 microprocessor**	
 
 	- The CPU is designed in modules, and each module uses Verilog HDL to design, which is implemented on the Basys3 after being verified by Modelsim pre-imitation. The complex C language load can run, and UART serial communication function controlled by softcore can be realized.
 
