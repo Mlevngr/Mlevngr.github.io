@@ -31,12 +31,12 @@ I am looking for internship and Master thesis for my second year.
 - Mandarian(Native), TOEFL(iBT) 92
 
 # 📖 Educations
-- *2022.09 - now*, Master in Eletrical Engneering(track:Electric System), Eindhoven University of Technology, Netherlands
+- *2022.09 - now*, Master in Eletrical Engneering(track:Electric System), **Eindhoven University of Technology**, Netherlands
 	
 	*Relevant Course*: Digital integrated circuit design, Embedded computer architecture, Electronic design automation,
 					Applied combinatorial algorithms, Intelligent architectures(focus on DNN/Hardware co-design), 
 					Systems on silicon(focus on SoC backend), Neuro computation(focus on Neuromorphic computing).
-- *2018.09 - 2022.06*, Bachelor in Integrated Circuit Design and Integrated Systems, Hefei University of Technology, Hefei, China
+- *2018.09 - 2022.07*, Bachelor in Integrated Circuit Design and Integrated Systems, **Hefei University of Technology**, Hefei, China
 	
 	*GPA*: 83.1/100 (TOP 22%)
 	
@@ -44,11 +44,13 @@ I am looking for internship and Master thesis for my second year.
 					Introduction to SoC design, Verilog HDL and FPGA implementation and so on.
 
 # 🔥 Project
-- *2022.11 - 2023.01,* **Full Custom 16-bit Brent-Kung Adder Design**
+- *2023.02 - 2023.04,* **Intelligent Architecture Lab**
 
-	Completed CMOS circuit design and layout design for a 45nm full custom 16-bit Brent-Kung adder. 
-	Circuit design and layout design via Cadence Virtuoso, DRC and LVS verification of the layout using Calibre. 
-	The circuit design can be functionally verified by simulation at 500MHz, 90◦C with an output rise and fall time of less than 100ps, and the layout results can be functionally verified at a post-simulation of 500MHz.
+	Train [a multilayer perceptron for handwritten digit classification(MNIST)](https://github.com/BoChen-Ye/MNIST-handwritten-digit-classification) using the PyTorch framework.
+
+    Optimize a VGG5 for image classification using various quantization and pruning techniques. Explore the impact of these techniques on both accuracy and compute cost.
+	
+    Using open source [Tensil AI](https://www.tensil.ai/) for generating tensor computing units, compiling and running ML models on it. Accelerating matrix-multiplication for machine learning, using systolic array architecture.
 
 - *2023.02 - 2023.03,* [**Five-stage pipelined RISC-V processor with full hazard handling**](https://github.com/BoChen-Ye/RISC-V-five-stage-CPU)
 
@@ -56,9 +58,21 @@ I am looking for internship and Master thesis for my second year.
 	using Verilog and simulated in Modelsim for simulation. The processor can run the basic RV32i instructions,
 	solves data conflicts, structure conflicts, and control conflicts, and supports stalling, flushing and forwarding.
 
+- *2022.11 - 2023.01,* **Full Custom 16-bit Brent-Kung Adder Design**
+
+	Completed CMOS circuit design and layout design for a 45nm full custom 16-bit Brent-Kung adder. 
+	Circuit design and layout design via Cadence Virtuoso, DRC and LVS verification of the layout using Calibre. 
+	The circuit design can be functionally verified by simulation at 500MHz, 90◦C with an output rise and fall time of less than 100ps, and the layout results can be functionally verified at a post-simulation of 500MHz.
+
+- *2022.12 - 2023.01,* **Implementation of image processing kernels on CUDA**
+
+	Mapping Grayscale processing and convolution 2D kernels from C to CUDA and optimaize the loop, then running on the Nvidia GPU.
+	The result is that the processing time of 13 images is accelerated from 4872ms to 27ms.
+
 - *2020.10 - 2020.11,* **VLSI Simulation and Synthesis**	
 
 	Use VCS to verify the function of Tinycore based on RISC-V on the test platform.
+
 	Use DC compiler to synthesize four different hardware description ALUs, and analyze the comprehensive report
 	to compare and analyze different parameters.
 
