@@ -58,7 +58,7 @@ I am looking for internship and Master thesis for my second year.
 
 - *2023.02 - 2023.03,* [**Five-stage pipelined RISC-V processor with full hazard handling**](https://github.com/BoChen-Ye/RISC-V-five-stage-CPU)
 
-	I have implemented a RISC-V five-stage pipeline processor with full hazard handling. The RTL level design
+	- I have implemented a RISC-V five-stage pipeline processor with full hazard handling. The RTL level design
 	using Verilog and simulated in Modelsim for simulation. The processor can run the basic RV32i instructions,
 	solves data conflicts, structure conflicts, and control conflicts, and supports stalling, flushing and forwarding.
 
