@@ -43,6 +43,12 @@ I am looking for internship and Master thesis for my second year.
 	*Relevant Class*: Analysis and Design of Integrated Digital Circuit, Microprocessor architecture and design,
 					Introduction to SoC design, Verilog HDL and FPGA implementation and so on.
 
+# 💻 Internships
+- *2021.10 - 2022.05, Research Intern*, **Institute of VLSI Design of HFUT**
+	
+	Investigate the background of Network on Chip router, and improve the [Packet Connected Circuit(PCC)-based NoC router](https://github.com/BoChen-Ye/Network-on-Chip-Router-Based-on-Packet-Connected-Circuit) structure and routing algorithm. 
+	The RTL level design of the router using Verilog and its implementation and verification on FPGA. My graduation thesis received A grade, and this project was continued to be improved by other student to prepare for publication.
+
 # 🔥 Project
 - *2023.02 - 2023.04,* **Intelligent Architecture Lab**
 
@@ -76,12 +82,6 @@ I am looking for internship and Master thesis for my second year.
 	- Use VCS to verify the function of Tinycore based on RISC-V on the test platform.
 	- Use DC compiler to synthesize four different hardware description ALUs, and analyze the comprehensive report
 	to compare and analyze different parameters.
-
-# 💻 Internships
-- *2021.10 - 2022.05, Research Intern*, **Institute of VLSI Design of HFUT**
-	
-	Investigate the background of Network on Chip router, and improve the [Packet Connected Circuit(PCC)-based NoC router](https://github.com/BoChen-Ye/Network-on-Chip-Router-Based-on-Packet-Connected-Circuit) structure and routing algorithm. 
-	The RTL level design of the router using Verilog and its implementation and verification on FPGA. My graduation thesis received A grade, and this project was continued to be improved by other student to prepare for publication.
 
 # 🎖 Honors and Awards
 - *2022,* My bachelor thesis of NoC get A grade.
