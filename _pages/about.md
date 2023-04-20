@@ -33,7 +33,7 @@ I am looking for internship and Master thesis for my second year.
 	- ICPECA'21:[Design of Lightweight System Based on SystemC](https://ieeexplore.ieee.org/document/9362651)
 
 # 📖 Educations
-- *2022.09 - now*, Master in Eletrical Engneering(track:Electric System), **Eindhoven University of Technology**, Netherlands
+- *2022.09 - now*, Master in Eletrical Engneering(track:Electronic System), **Eindhoven University of Technology**, Netherlands
 	
 	*Relevant Course*: Digital integrated circuit design, Embedded computer architecture, Electronic design automation,
 					Applied combinatorial algorithms, Intelligent architectures(focus on DNN/Hardware co-design), 
