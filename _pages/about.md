@@ -23,11 +23,12 @@ I am interested in VLSI Design, AI Hardware Accelerator, Algorithm/Hardware co-d
 I am looking for internship and Master thesis for my second year.
 
 # 🔥 News
+- *2022.09*: &nbsp;🎉🎉 I started my master's study in TU/e.
 - *2022.07*: &nbsp;🎉🎉 I am graduated from Hefei University of Technology with a bachelor’s degree, supervised by Zhenmin Li.  
 
 # 📝 Skill & Publications 
-- Verilog · FPGA · MS Office · Linux · Cadence Tool
-- Python · C/C++ · SystemC · MATLAB · LaTex · CUDA · Pytorch · Perl
+- Verilog · FPGA · MS Office · Linux · Cadence Tool(Virtuoso,Incisive,Genus,Innovus)
+- Python · C/C++ · SystemC · MATLAB · LaTex · CUDA · Pytorch · Perl/TCL/Shell
 - Mandarian(Native), TOEFL(iBT) 92
 - Publication:
 	- ICPECA'21:[Design of Lightweight System Based on SystemC](https://ieeexplore.ieee.org/document/9362651)
@@ -52,7 +53,11 @@ I am looking for internship and Master thesis for my second year.
 	The RTL level design of the router using Verilog and its implementation and verification on FPGA. My graduation thesis received A grade, and this project was continued to be improved by other student to prepare for publication.
 
 # 🔥 Project
-- *2023.02 - 2023.04,* **Intelligent Architecture Lab**
+- *2023.05 - Now*, **Low power design and synthesis of SOC based on MIPS and AES**
+	
+	- In the front end, Verilog is used to design a five-stage pipeline MIPS processor core, AES encryption module, and SOC is composed of AMBA bus. Cadence Incisive is used for simulation function verification, Cadence Genus is used for logic synthesis, and Cadence Innovus is used for place and route. Finally, the GDSII layout file of SOC is generated.
+
+- *2023.02 - 2023.04,* **Inference acceleration of deep neural network based on TCU accelerator**
 
 	- Train [a multilayer perceptron for handwritten digit classification(MNIST)](https://github.com/BoChen-Ye/MNIST-handwritten-digit-classification) using the PyTorch framework.
 	- Optimize a VGG5 for image classification using various quantization and pruning techniques. Explore the impact of these techniques on both accuracy and compute cost.
