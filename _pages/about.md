@@ -20,9 +20,9 @@ I am studying at TU/e for my master degree.
 
 I am interested in VLSI Design, AI Hardware Accelerator, Algorithm/Hardware co-design, NoC.
 
-I am looking for internship and Master thesis for my second year.
 
 # 🔥 News
+- *2022.09*: &nbsp;🎉🎉 I signed contract with **Intrinsic ID** as an Intern for 3.5 months, supervised by Rui Wang(Intrinsic ID) and Menil Dev Gomony(TU/e).
 - *2022.09*: &nbsp;🎉🎉 I started my master's study in TU/e.
 - *2022.07*: &nbsp;🎉🎉 I am graduated from Hefei University of Technology with a bachelor’s degree, supervised by Zhenmin Li.  
 
