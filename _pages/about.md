@@ -54,9 +54,9 @@ I am interested in VLSI Design, AI Hardware Accelerator, Algorithm/Hardware co-d
 					Introduction to SoC design, Verilog HDL and FPGA implementation and so on.
 
 # 💻 Internships
-- *2023.07 - 2023.10, Digital IC Intern*, **Intrinsic ID**, Eindhoven
+- *2023.07 - 2023.10, Digital IC Intern*, **Intrinsic ID**, Eindhoven NL
 	- Study and develop a trellis-based Reed-Muller code structure as a digital IP module and compare it with the existing Reed-Muller implementation based on traditional algorithms in terms of complexity and efficiency.
-- *2021.10 - 2022.05, Research Intern*, **Institute of VLSI Design of HFUT**
+- *2021.10 - 2022.05, Research Intern*, **Institute of VLSI Design of HFUT**, China
 	
 	- Investigate the background of Network on Chip router, and improve the [Packet Connected Circuit(PCC)-based NoC router](https://github.com/BoChen-Ye/Network-on-Chip-Router-Based-on-Packet-Connected-Circuit) structure and routing algorithm.  Used Verilog HDL to design NoC router in RTL-level and implementated on FPGA to verify its functionality.
 	- This project as my bachelor graduation project, it's thesis received A, and was submitted as part of the IEEE/ACM International Symposium on NOCS.
@@ -64,8 +64,9 @@ I am interested in VLSI Design, AI Hardware Accelerator, Algorithm/Hardware co-d
 # 🔥 Project
 - *2023.05 - Now*, **Low power design and synthesis of SOC based on MIPS and AES**
 	
-	- Used Verilog to design a SoC which include five-stage pipelined mMIPS processor core, AES encryption module, and AMBA bus. 
-    - Cadence Incisive is used for simulation function verification, Cadence Genus is used for logic synthesis, and Cadence Innovus is used for place and route. Finally, the GDSII layout file of SOC is generated.
+	- Used Verilog to design a SoC which include five-stage pipelined mMIPS processor core, AES encryption module, and AMBA bus and Used Cadence Incisive to simulation and functional verification.
+    - Used Cadence Genus for logic synthesis with low power strategies which is reduce 3\% power consumption under 125MHz.
+    - Used Cadence Innovus for place and route with two power domain which is reduce 31\% power consumption under 200MHz.
 
 - *2023.02 - 2023.04,* **Inference acceleration of deep neural network based on TCU accelerator**
 
