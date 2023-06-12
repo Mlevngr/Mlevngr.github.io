@@ -39,6 +39,8 @@ I am interested in VLSI Design, AI Hardware Accelerator, Algorithm/Hardware co-d
 # 📖 Educations
 - *2022.09 - now*, Master in Eletrical Engneering(track:Electronic System), **Eindhoven University of Technology**, Netherlands
 
+	*GPA*: 7/10
+
 	*Relevant Course*: Digital integrated circuit design, Embedded computer architecture, Electronic design automation,
 					Applied combinatorial algorithms, Intelligent architectures(focus on DNN/Hardware co-design), 
 					Systems on silicon(focus on SoC backend), Neuro computation(focus on Neuromorphic computing).
@@ -60,7 +62,7 @@ I am interested in VLSI Design, AI Hardware Accelerator, Algorithm/Hardware co-d
 # 🔥 Project
 - *2023.05 - Now*, **Low power design and synthesis of SOC based on MIPS and AES**
 	
-	- Investigated the background of Network on Chip router, and improve the Packet Connected Circuit(PCC)-based NoC router structure and routing algorithm. Used Verilog HDL to design NoC router in RTL-level and implementated on FPGA to verify its functionality. 
+	- Investigated the background of Network on Chip router, and improve the Packet Connected Circuit(PCC)-based NoC router structure and routing algorithm. Used Verilog HDL to design NoC router in RTL-level and implementated on FPGA to verify its functionality. '
     - This project as my bachelor graduation project, it's thesis received A, and was submitted as part of the IEEE/ACM International Symposium on NOCS.
 
 - *2023.02 - 2023.04,* **Inference acceleration of deep neural network based on TCU accelerator**
