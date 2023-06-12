@@ -56,14 +56,14 @@ I am interested in VLSI Design, AI Hardware Accelerator, Algorithm/Hardware co-d
 # 💻 Internships
 - *2021.10 - 2022.05, Research Intern*, **Institute of VLSI Design of HFUT**
 	
-	Investigate the background of Network on Chip router, and improve the [Packet Connected Circuit(PCC)-based NoC router](https://github.com/BoChen-Ye/Network-on-Chip-Router-Based-on-Packet-Connected-Circuit) structure and routing algorithm. 
-	The RTL level design of the router using Verilog and its implementation and verification on FPGA. My graduation thesis received A grade, and this project was continued to be improved by other student to prepare for publication.
+	Investigate the background of Network on Chip router, and improve the [Packet Connected Circuit(PCC)-based NoC router](https://github.com/BoChen-Ye/Network-on-Chip-Router-Based-on-Packet-Connected-Circuit) structure and routing algorithm.  Used Verilog HDL to design NoC router in RTL-level and implementated on FPGA to verify its functionality.
+	- This project as my bachelor graduation project, it's thesis received A, and was submitted as part of the IEEE/ACM International Symposium on NOCS.
 
 # 🔥 Project
 - *2023.05 - Now*, **Low power design and synthesis of SOC based on MIPS and AES**
 	
-	- Investigated the background of Network on Chip router, and improve the Packet Connected Circuit(PCC)-based NoC router structure and routing algorithm. Used Verilog HDL to design NoC router in RTL-level and implementated on FPGA to verify its functionality. '
-    - This project as my bachelor graduation project, it's thesis received A, and was submitted as part of the IEEE/ACM International Symposium on NOCS.
+	- Used Verilog to design a SoC which include five-stage pipelined mMIPS processor core, AES encryption module, and AMBA bus. 
+    - Cadence Incisive is used for simulation function verification, Cadence Genus is used for logic synthesis, and Cadence Innovus is used for place and route. Finally, the GDSII layout file of SOC is generated.
 
 - *2023.02 - 2023.04,* **Inference acceleration of deep neural network based on TCU accelerator**
 
