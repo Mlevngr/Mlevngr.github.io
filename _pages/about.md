@@ -22,7 +22,10 @@ I am interested in VLSI Design, AI Hardware Accelerator, Algorithm/Hardware co-d
 
 
 # 🔥 News
-- *2023.07*: &nbsp;🎉🎉 I will be an intern in the **[Intrinsic ID](https://www.intrinsic-id.com/)**<img src="images/IntrinsicID.png"> for 3.5 months, supervised by Rui Wang(Intrinsic ID) and [Menil Dev Gomony](https://www.tue.nl/en/research/researchers/manil-dev-gomony)(TU/e & Nokia Bell Labs).
+- *2023.07*: &nbsp;🎉🎉 I will be an intern in the **[Intrinsic ID](https://www.intrinsic-id.com/)** for 3.5 months, supervised by Rui Wang(Intrinsic ID) and [Manil Dev Gomony](https://www.tue.nl/en/research/researchers/manil-dev-gomony)(TU/e & Nokia Bell Labs).
+
+<img src="images/IntrinsicID.png">
+
 - *2022.09*: &nbsp;🎉🎉 I started my master's study in TU/e.
 - *2022.07*: &nbsp;🎉🎉 I am graduated from Hefei University of Technology with a bachelor’s degree, supervised by [Zhenmin Li](https://wdzxy.hfut.edu.cn/2020/1231/c11547a249635/page.htm).  
 
@@ -39,6 +42,7 @@ I am interested in VLSI Design, AI Hardware Accelerator, Algorithm/Hardware co-d
 	*Relevant Course*: Digital integrated circuit design, Embedded computer architecture, Electronic design automation,
 					Applied combinatorial algorithms, Intelligent architectures(focus on DNN/Hardware co-design), 
 					Systems on silicon(focus on SoC backend), Neuro computation(focus on Neuromorphic computing).
+
 	<img src="images/TUe_logo.png">
 - *2018.09 - 2022.07*, Bachelor in Integrated Circuit Design and Integrated Systems, **Hefei University of Technology**, Hefei, China
 	
