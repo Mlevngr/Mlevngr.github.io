@@ -54,6 +54,8 @@ I am interested in VLSI Design, AI Hardware Accelerator, Algorithm/Hardware co-d
 					Introduction to SoC design, Verilog HDL and FPGA implementation and so on.
 
 # 💻 Internships
+- *2023.07 - 2023.10, Digital IC Intern*, **Intrinsic ID**, Eindhoven
+	- Study and develop a trellis-based Reed-Muller code structure as a digital IP module and compare it with the existing Reed-Muller implementation based on traditional algorithms in terms of complexity and efficiency.
 - *2021.10 - 2022.05, Research Intern*, **Institute of VLSI Design of HFUT**
 	
 	- Investigate the background of Network on Chip router, and improve the [Packet Connected Circuit(PCC)-based NoC router](https://github.com/BoChen-Ye/Network-on-Chip-Router-Based-on-Packet-Connected-Circuit) structure and routing algorithm.  Used Verilog HDL to design NoC router in RTL-level and implementated on FPGA to verify its functionality.
