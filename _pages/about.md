@@ -34,8 +34,8 @@ I am interested in VLSI Design, AI Hardware Accelerator, Algorithm/Hardware co-d
 	- ICPECA'21:[Design of Lightweight System Based on SystemC](https://ieeexplore.ieee.org/document/9362651)
 
 # 📖 Educations
-- *2022.09 - now*, Master in Eletrical Engneering(track:Electronic System), **Eindhoven University of Technology**, Netherlands
-<img src="images/TUe_logo.png"></a>
+- *2022.09 - now*, Master in Eletrical Engneering(track:Electronic System), **Eindhoven University of Technology**<img src="images/TUe_logo.png">, Netherlands
+
 	*Relevant Course*: Digital integrated circuit design, Embedded computer architecture, Electronic design automation,
 					Applied combinatorial algorithms, Intelligent architectures(focus on DNN/Hardware co-design), 
 					Systems on silicon(focus on SoC backend), Neuro computation(focus on Neuromorphic computing).
