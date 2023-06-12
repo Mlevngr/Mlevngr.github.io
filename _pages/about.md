@@ -22,9 +22,9 @@ I am interested in VLSI Design, AI Hardware Accelerator, Algorithm/Hardware co-d
 
 
 # 🔥 News
-- *2022.09*: &nbsp;🎉🎉 I signed contract with **Intrinsic ID** as an Intern for 3.5 months, supervised by Rui Wang(Intrinsic ID) and Menil Dev Gomony(TU/e).
+- *2023.07*: &nbsp;🎉🎉 I will be an intern in the **Intrinsic ID** for 3.5 months, supervised by Rui Wang(Intrinsic ID) and [Menil Dev Gomony](https://www.tue.nl/en/research/researchers/manil-dev-gomony)(TU/e & Nokia Bell Labs).
 - *2022.09*: &nbsp;🎉🎉 I started my master's study in TU/e.
-- *2022.07*: &nbsp;🎉🎉 I am graduated from Hefei University of Technology with a bachelor’s degree, supervised by Zhenmin Li.  
+- *2022.07*: &nbsp;🎉🎉 I am graduated from Hefei University of Technology with a bachelor’s degree, supervised by [Zhenmin Li](https://wdzxy.hfut.edu.cn/2020/1231/c11547a249635/page.htm).  
 
 # 📝 Skill & Publications 
 - Verilog · FPGA · MS Office · Linux · Cadence Tool(Virtuoso,Incisive,Genus,Innovus)
@@ -55,7 +55,8 @@ I am interested in VLSI Design, AI Hardware Accelerator, Algorithm/Hardware co-d
 # 🔥 Project
 - *2023.05 - Now*, **Low power design and synthesis of SOC based on MIPS and AES**
 	
-	- In the front end, Verilog is used to design a five-stage pipeline MIPS processor core, AES encryption module, and SOC is composed of AMBA bus. Cadence Incisive is used for simulation function verification, Cadence Genus is used for logic synthesis, and Cadence Innovus is used for place and route. Finally, the GDSII layout file of SOC is generated.
+	- Investigated the background of Network on Chip router, and improve the Packet Connected Circuit(PCC)-based NoC router structure and routing algorithm. Used Verilog HDL to design NoC router in RTL-level and implementated on FPGA to verify its functionality. 
+    - This project as my bachelor graduation project, it's thesis received A, and was submitted as part of the IEEE/ACM International Symposium on NOCS.
 
 - *2023.02 - 2023.04,* **Inference acceleration of deep neural network based on TCU accelerator**
 
