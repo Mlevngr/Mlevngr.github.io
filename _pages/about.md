@@ -56,7 +56,7 @@ I am interested in VLSI Design, AI Hardware Accelerator, Algorithm/Hardware co-d
 # 💻 Internships
 - *2021.10 - 2022.05, Research Intern*, **Institute of VLSI Design of HFUT**
 	
-	Investigate the background of Network on Chip router, and improve the [Packet Connected Circuit(PCC)-based NoC router](https://github.com/BoChen-Ye/Network-on-Chip-Router-Based-on-Packet-Connected-Circuit) structure and routing algorithm.  Used Verilog HDL to design NoC router in RTL-level and implementated on FPGA to verify its functionality.
+	- Investigate the background of Network on Chip router, and improve the [Packet Connected Circuit(PCC)-based NoC router](https://github.com/BoChen-Ye/Network-on-Chip-Router-Based-on-Packet-Connected-Circuit) structure and routing algorithm.  Used Verilog HDL to design NoC router in RTL-level and implementated on FPGA to verify its functionality.
 	- This project as my bachelor graduation project, it's thesis received A, and was submitted as part of the IEEE/ACM International Symposium on NOCS.
 
 # 🔥 Project
