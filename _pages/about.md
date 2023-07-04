@@ -22,9 +22,9 @@ I am interested in VLSI Design, AI Hardware Accelerator, Algorithm/Hardware co-d
 
 
 # 🔥 News
-- *2023.07*: &nbsp;🎉🎉 I will be an intern in the **[Intrinsic ID](https://www.intrinsic-id.com/)** for 3.5 months, supervised by Rui Wang(Intrinsic ID) and [Manil Dev Gomony](https://www.tue.nl/en/research/researchers/manil-dev-gomony)(TU/e & Nokia Bell Labs).
+- *2023.07*: &nbsp;🎉🎉 I will be an intern at **[Intrinsic ID](https://www.intrinsic-id.com/)** for 3.5 months, supervised by Rui Wang(Intrinsic ID) and [Manil Dev Gomony](https://www.tue.nl/en/research/researchers/manil-dev-gomony)(TU/e & Nokia Bell Labs).
 
-- *2022.09*: &nbsp;🎉🎉 I started my master's study in TU/e.
+- *2022.09*: &nbsp;🎉🎉 I started my master's study at TU/e.
 - *2022.07*: &nbsp;🎉🎉 I am graduated from Hefei University of Technology with a bachelor’s degree, supervised by [Zhenmin Li](https://wdzxy.hfut.edu.cn/2020/1231/c11547a249635/page.htm).  
 
 # 📝 Skill & Publications 
