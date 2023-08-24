@@ -31,8 +31,7 @@ I am interested in VLSI Design, AI Hardware Accelerator, Algorithm/Hardware co-d
 - Verilog · FPGA · MS Office · Linux · Cadence Tool(Virtuoso,Incisive,Genus,Innovus)
 - Python · C/C++ · SystemC · MATLAB · LaTex · CUDA · Pytorch · Perl/TCL/Shell
 - Mandarian(Native), TOEFL(iBT) 92
-#- Publication:
-	#- ICPECA'21:[Design of Lightweight System Based on SystemC](https://ieeexplore.ieee.org/document/9362651)
+
 
 # 📖 Educations
 - *2022.09 - now*, Master in Eletrical Engneering(track:Electronic System), **Eindhoven University of Technology**, Netherlands
