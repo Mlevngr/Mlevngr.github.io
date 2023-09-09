@@ -28,7 +28,7 @@ I am interested in VLSI Design, AI Hardware Accelerator, Algorithm/Hardware co-d
 - *2022.07*: &nbsp;🎉🎉 I am graduated from Hefei University of Technology with a bachelor’s degree, supervised by [Zhenmin Li](https://wdzxy.hfut.edu.cn/2020/1231/c11547a249635/page.htm).  
 
 # 📝 Skill & Publications 
-- Verilog · FPGA · MS Office · Linux · Cadence Tool(Virtuoso,Incisive,Genus,Innovus)
+- Verilog/SystemVerilog/VHDL · FPGA · MS Office · Linux · Cadence Tool(Virtuoso,Incisive,Genus,Innovus)
 - Python · C/C++ · SystemC · MATLAB · LaTex · CUDA · Pytorch · Perl/TCL/Shell
 - Mandarian(Native), TOEFL(iBT) 92
 
@@ -50,8 +50,10 @@ I am interested in VLSI Design, AI Hardware Accelerator, Algorithm/Hardware co-d
 					Introduction to SoC design, Verilog HDL and FPGA implementation and so on.
 
 # 💻 Internships
-- *2023.07 - 2023.10, Digital IC Intern*, **Intrinsic ID**, Eindhoven NL
-	- Study and develop a trellis-based Reed-Muller code structure as a digital IP module and compare it with the existing Reed-Muller implementation based on traditional algorithms in terms of complexity and efficiency.
+- *2023.07 - 2023.10, IP Modeling and Digital IC Design Intern*, **Intrinsic ID**, Eindhoven NL
+	- Study on a trellis-based Reed-Muller code structure. Modeling it by Python, implementation by VHDL and verify the module with FPGA prototype. In the end, Synopsys Design Compiler is used for logic synthesis in the 65nm process.
+	- Compare it with the existing Reed-Muller implementation based on traditional algorithms in terms of complexity and efficiency. This internship supervised by Manil Dev Gomony(TU/e) and Rui Wang(Intrinsic ID).
+
 - *2021.10 - 2022.05, Research Intern*, **Institute of VLSI Design of HFUT**, China
 	
 	- Investigate the background of Network on Chip router, and improve the [Packet Connected Circuit(PCC)-based NoC router](https://github.com/BoChen-Ye/Network-on-Chip-Router-Based-on-Packet-Connected-Circuit) structure and routing algorithm.  Used Verilog HDL to design NoC router in RTL-level and implementated on FPGA to verify its functionality.
@@ -90,6 +92,10 @@ I am interested in VLSI Design, AI Hardware Accelerator, Algorithm/Hardware co-d
 - *2021.04 - 2021.06,* **A single-cycle CPU compatible with Microchip PIC16F54 microprocessor**	
 
 	- The CPU is designed in modules, and each module uses Verilog HDL to design, which is implemented on the Basys3 after being verified by Modelsim pre-imitation. The complex C language load can run, and UART serial communication function controlled by softcore can be realized.
+
+- *2020.12 - 2021.01,* **Design of Lightweight System Based on SystemC**
+
+	- Studying the structural design of soc, and use SystemC to write Bus and UART serial interface, function processing module, arbiter module, data receiving and sending module to form a lightweight system and verify it. Drive data enters two processing modules, and one of the results is selected by the arbiter in the bus and sent to the receiving module through UART interface and displayed.
 
 - *2020.10 - 2020.11,* **VLSI Simulation and Synthesis**	
 
