@@ -23,7 +23,6 @@ I am interested in VLSI Design, AI Hardware Accelerator, Algorithm/Hardware co-d
 
 # 🔥 News
 - *2023.07*: &nbsp;🎉🎉 I will be an intern at **[Intrinsic ID](https://www.intrinsic-id.com/)** for 3.5 months, supervised by Rui Wang(Intrinsic ID) and [Manil Dev Gomony](https://www.tue.nl/en/research/researchers/manil-dev-gomony)(TU/e & Nokia Bell Labs).
-
 - *2022.09*: &nbsp;🎉🎉 I started my master's study at TU/e.
 - *2022.07*: &nbsp;🎉🎉 I am graduated from Hefei University of Technology with a bachelor’s degree, supervised by [Zhenmin Li](https://wdzxy.hfut.edu.cn/2020/1231/c11547a249635/page.htm).  
 
@@ -51,14 +50,22 @@ I am interested in VLSI Design, AI Hardware Accelerator, Algorithm/Hardware co-d
 
 # 💻 Internships
 - *2023.07 - 2023.10, IP Modeling and Digital IC Design Intern*, **Intrinsic ID**, Eindhoven NL
-	- Study on a trellis-based Reed-Muller code structure. Modeling it by Python, implementation by VHDL and verify the module with FPGA prototype. In the end, Synopsys Design Compiler is used for logic synthesis in the 65nm process.
+
+	My work as follow:
+	- Study on a trellis-based Reed-Muller codec. 
+	- Use Python modeling it as a digital IP module.(software)
+	- Design the architecture of codec and implementation by VHDL.(harware)
+	- Verification on Arty-z7 FPGA(zynq) with vivado and vitis.(Embeded System)
 	- Compare it with the existing Reed-Muller implementation based on traditional algorithms in terms of complexity and efficiency. This internship supervised by Manil Dev Gomony(TU/e) and Rui Wang(Intrinsic ID).
 
 - *2021.10 - 2022.05, Research Intern*, **Institute of VLSI Design of HFUT**, China
 	
-	- Investigate the background of Network on Chip router, and improve the [Packet Connected Circuit(PCC)-based NoC router](https://github.com/BoChen-Ye/Network-on-Chip-Router-Based-on-Packet-Connected-Circuit) structure and routing algorithm.  Used Verilog HDL to design NoC router in RTL-level and implementated on FPGA to verify its functionality.
-	- This project as my bachelor graduation project, it's thesis received A, and was submitted as part of the IEEE/ACM International Symposium on NOCS.
-
+	- Study the knowledge of [Network-on-Chip(NoC) Router Based on Packet Connected Circuit(PCC)](https://github.com/BoChen-Ye/Network-on-Chip-Router-Based-on-Packet-Connected-Circuit).
+	- Implementation the router and routing algorithm of PCC-NoC by using VerilogHDL.
+	- Verification it on FPGA and use UART(with FIFO) to communicate with PC.
+	- Use Python to verify result automatically.
+	- This project as my bachelor graduation project got A and advised by Zhenmin Li(HFUT).
+	 
 # 🔥 Project
 - *2023.05 - Now*, **Low power design and synthesis of SOC based on MIPS and AES**
 	
