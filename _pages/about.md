@@ -16,12 +16,12 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am studying at TU/e for my master degree.
+I am studying at TU/e for my master degree. I got my bachelor degree from Hefei University of Technology(HFUT), China.
 
-I am interested in VLSI Design, Neuromorphic Hardware, Effient AI Hardware Accelerator, NoC.
+I am interested in VLSI/ASIC Design, Neuromorphic Hardware, Effient AI Hardware Accelerator and NoC.
 
 
-# 🔥 News
+# 📯 News
 - *2023.07*: &nbsp;🎉🎉 I will be an intern at **[Intrinsic ID](https://www.intrinsic-id.com/)** for 3.5 months, supervised by Rui Wang(Intrinsic ID) and [Manil Dev Gomony](https://www.tue.nl/en/research/researchers/manil-dev-gomony)(TU/e & Nokia Bell Labs).
 - *2022.09*: &nbsp;🎉🎉 I started my master's study at TU/e.
 - *2022.07*: &nbsp;🎉🎉 I am graduated from Hefei University of Technology with a bachelor’s degree, supervised by [Zhenmin Li](https://wdzxy.hfut.edu.cn/2020/1231/c11547a249635/page.htm).  
@@ -32,7 +32,7 @@ I am interested in VLSI Design, Neuromorphic Hardware, Effient AI Hardware Accel
 - Mandarian(Native), TOEFL(iBT) 92
 
 
-# 📖 Educations
+# 🏫 Educations
 - *2022.09 - now*, Master in Eletrical Engneering(track:Electronic System), **Eindhoven University of Technology**, Netherlands
 
 	*GPA*: 7/10
@@ -56,7 +56,7 @@ I am interested in VLSI Design, Neuromorphic Hardware, Effient AI Hardware Accel
 	- Use Python modeling it as a digital IP module.(software)
 	- Design the architecture of codec and implementation by VHDL.(harware)
 	- Verify on Arty-z7 FPGA(zynq) with vivado and vitis.(Embeded System)
-	- Compare it with the existing Reed-Muller implementation based on traditional algorithms in terms of complexity and efficiency. This internship supervised by Manil Dev Gomony(TU/e) and Rui Wang(Intrinsic ID).
+	- Compare it with the existing Reed-Muller implementation based on traditional algorithms in terms of complexity and efficiency. This internship supervised by Manil Dev Gomony(Bell Lab & TU/e) and Rui Wang(Intrinsic ID).
 
 - *2021.10 - 2022.05, Research Intern*, **Institute of VLSI Design of HFUT**, China
 	
@@ -65,9 +65,17 @@ I am interested in VLSI Design, Neuromorphic Hardware, Effient AI Hardware Accel
 	- Verify it on FPGA and use UART(with FIFO) to communicate with PC.
 	- Use Python to verify result automatically.
 	- This project as my bachelor graduation project got A and advised by Zhenmin Li(HFUT).
+
+# 📖Studying
+- **TinyML and Efficient Deep Learning Computing**, MIT HAN LAB.
+	
+	- Online self study, Quantization part II.
+
+- **一生一芯ysyx**, Institute of Computing technology, CAS.
+	- Online self study, prestudy.
 	 
 # 🔥 Project
-- *2023.05 - Now*, **Low power design and synthesis of SOC based on MIPS and AES**
+- *2023.05 - 2023.06*, **Low power design and synthesis of SOC based on MIPS and AES**
 	
 	- Used Verilog to design a SoC which include five-stage pipelined mMIPS processor core, AES encryption module, and AMBA bus and Used Cadence Incisive to simulation and functional verification.
     - Used Cadence Genus for logic synthesis with low power strategies which is reduce 3\% power consumption under 125MHz.
