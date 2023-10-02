@@ -72,6 +72,7 @@ I am interested in VLSI/ASIC Design, Neuromorphic Hardware, Effient AI Hardware 
 	- Online self study, Quantization part II.
 
 - **一生一芯ysyx**, Institute of Computing technology, CAS.
+
 	- Online self study, prestudy.
 	 
 # 🔥 Project
