@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 I am studying at TU/e for my master degree.
 
-I am interested in VLSI Design, AI Hardware Accelerator, Algorithm/Hardware co-design, NoC.
+I am interested in VLSI Design, Neuromorphic Hardware, Effient AI Hardware Accelerator, NoC.
 
 
 # 🔥 News
@@ -51,18 +51,18 @@ I am interested in VLSI Design, AI Hardware Accelerator, Algorithm/Hardware co-d
 # 💻 Internships
 - *2023.07 - 2023.10, IP Modeling and Digital IC Design Intern*, **Intrinsic ID**, Eindhoven NL
 
-	My work as follow:
+	I am working in Research and Security Department. My work as follow:
 	- Study on a trellis-based Reed-Muller codec. 
 	- Use Python modeling it as a digital IP module.(software)
 	- Design the architecture of codec and implementation by VHDL.(harware)
-	- Verification on Arty-z7 FPGA(zynq) with vivado and vitis.(Embeded System)
+	- Verify on Arty-z7 FPGA(zynq) with vivado and vitis.(Embeded System)
 	- Compare it with the existing Reed-Muller implementation based on traditional algorithms in terms of complexity and efficiency. This internship supervised by Manil Dev Gomony(TU/e) and Rui Wang(Intrinsic ID).
 
 - *2021.10 - 2022.05, Research Intern*, **Institute of VLSI Design of HFUT**, China
 	
 	- Study the knowledge of [Network-on-Chip(NoC) Router Based on Packet Connected Circuit(PCC)](https://github.com/BoChen-Ye/Network-on-Chip-Router-Based-on-Packet-Connected-Circuit).
-	- Implementation the router and routing algorithm of PCC-NoC by using VerilogHDL.
-	- Verification it on FPGA and use UART(with FIFO) to communicate with PC.
+	- Implementate the router and routing algorithm of PCC-NoC by using VerilogHDL.
+	- Verify it on FPGA and use UART(with FIFO) to communicate with PC.
 	- Use Python to verify result automatically.
 	- This project as my bachelor graduation project got A and advised by Zhenmin Li(HFUT).
 	 
