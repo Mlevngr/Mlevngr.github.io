@@ -74,6 +74,9 @@ I am interested in VLSI/ASIC Design, Neuromorphic Hardware, Effient AI Hardware 
 - **一生一芯ysyx**, Institute of Computing technology, CAS.
 
 	- Online self study, prestudy.
+
+- **Asynchronous VLSI Design**, USC.
+	- beignner.
 	 
 # 🔥 Project
 - *2023.05 - 2023.06*, **Low power design and synthesis of SOC based on MIPS and AES**
