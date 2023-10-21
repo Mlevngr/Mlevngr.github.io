@@ -20,6 +20,8 @@ I am studying at TU/e for my master degree. I got my bachelor degree from Hefei 
 
 I am interested in VLSI/ASIC Design, Neuromorphic Hardware, Effient AI Hardware Accelerator and NoC.
 
+Here is my [CV](../docs/CV_graduation.pdf).
+
 
 # 📯 News
 - *2023.07*: &nbsp;🎉🎉 I will be an intern at **[Intrinsic ID](https://www.intrinsic-id.com/)** for 3.5 months, supervised by Rui Wang(Intrinsic ID) and [Manil Dev Gomony](https://www.tue.nl/en/research/researchers/manil-dev-gomony)(TU/e & Nokia Bell Labs).
@@ -82,8 +84,8 @@ I am interested in VLSI/ASIC Design, Neuromorphic Hardware, Effient AI Hardware 
 - *2023.05 - 2023.06*, **Low power design and synthesis of SOC based on MIPS and AES**
 	
 	- Used Verilog to design a SoC which include five-stage pipelined mMIPS processor core, AES encryption module, and AMBA bus and Used Cadence Incisive to simulation and functional verification.
-    - Used Cadence Genus for logic synthesis with low power strategies which is reduce 3\% power consumption under 125MHz.
-    - Used Cadence Innovus for place and route with two power domain which is reduce 31\% power consumption under 200MHz.
+    - Used Cadence Genus for logic synthesis with low power strategies which is reduce 3% power consumption under 125MHz.
+    - Used Cadence Innovus for place and route with two power domain which is reduce 8% power consumption under 200MHz.
 
 - *2023.02 - 2023.04,* **Inference acceleration of deep neural network based on TCU accelerator**
 
