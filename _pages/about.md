@@ -69,22 +69,6 @@ Here is my [CV](https://BoChen-Ye.github.io/files/CV_graduation.pdf).
 	- Use Python to verify result automatically.
 	- This project as my bachelor graduation project got A and advised by Zhenmin Li(HFUT).
 
-# 📖Self-Studying
-- **[TinyML and Efficient Deep Learning Computing](https://efficientml.ai)**, MIT HAN LAB.
-	
-	- Current progress: Neural Architecture Search part I.
-	- Content: Basics of Deep Learning, Pruning and Sparsity, Quantization, Neural Architecture Search
-
-- **[一生一芯ysyx](https://ysyx.oscc.cc/)**, Institute of Computing technology, CAS.
-
-	- Current progress: Prestudy->Stop.
-
-- **Asynchronous VLSI Design**, USC.
-	- beignner.
-
-- **[Digital Design and Computer Architecture](https://safari.ethz.ch/digitaltechnik/doku.php)**, ETH.
-	- beignner.
-
 # 🔥 Project
 - *2023.05 - 2023.06*, **Low power design and synthesis of SOC based on MIPS and AES**
 	
@@ -129,6 +113,22 @@ Here is my [CV](https://BoChen-Ye.github.io/files/CV_graduation.pdf).
 	- Use DC compiler to synthesize four different hardware description ALUs, and analyze the comprehensive report
 	to compare and analyze different parameters.
 
+# 📖Self-Studying
+- **[TinyML and Efficient Deep Learning Computing](https://efficientml.ai)**, MIT HAN LAB.
+	
+	- Current progress: Neural Architecture Search part I.
+	- Content: Basics of Deep Learning, Pruning and Sparsity, Quantization, Neural Architecture Search
+
+- **[一生一芯ysyx](https://ysyx.oscc.cc/)**, Institute of Computing technology, CAS.
+
+	- Current progress: Prestudy->Stop.
+
+- **Asynchronous VLSI Design**, USC.
+	- beignner.
+
+- **[Digital Design and Computer Architecture](https://safari.ethz.ch/digitaltechnik/doku.php)**, ETH.
+	- beignner.
+	
 # 🎖 Honors and Awards
 - *2022,* My bachelor thesis of NoC get A grade.
 - *2021/2022,* Unergraduate Scholarship. 
