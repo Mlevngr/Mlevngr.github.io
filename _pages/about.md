@@ -69,18 +69,22 @@ Here is my [CV](https://BoChen-Ye.github.io/files/CV_graduation.pdf).
 	- Use Python to verify result automatically.
 	- This project as my bachelor graduation project got A and advised by Zhenmin Li(HFUT).
 
-# 📖Studying
-- **TinyML and Efficient Deep Learning Computing**, MIT HAN LAB.
+# 📖Self-Studying
+- **[TinyML and Efficient Deep Learning Computing](https://efficientml.ai)**, MIT HAN LAB.
 	
-	- Online self study, Quantization part II.
+	- Current progress: Neural Architecture Search part I.
+	- Content: Basics of Deep Learning, Pruning and Sparsity, Quantization, Neural Architecture Search
 
-- **一生一芯ysyx**, Institute of Computing technology, CAS.
+- **[一生一芯ysyx](https://ysyx.oscc.cc/)**, Institute of Computing technology, CAS.
 
-	- Online self study, prestudy.
+	- Current progress: Prestudy->Stop.
 
 - **Asynchronous VLSI Design**, USC.
 	- beignner.
-	 
+
+- **[Digital Design and Computer Architecture](https://safari.ethz.ch/digitaltechnik/doku.php)**, ETH.
+	- beignner.
+
 # 🔥 Project
 - *2023.05 - 2023.06*, **Low power design and synthesis of SOC based on MIPS and AES**
 	
