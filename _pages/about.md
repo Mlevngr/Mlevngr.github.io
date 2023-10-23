@@ -29,7 +29,7 @@ Here is my [CV](https://BoChen-Ye.github.io/files/CV_graduation.pdf).
 - *2022.09*: &nbsp;🎉🎉 I started my master's study at TU/e.
 - *2022.07*: &nbsp;🎉🎉 I am graduated from Hefei University of Technology with a bachelor’s degree, supervised by [Zhenmin Li](https://wdzxy.hfut.edu.cn/2020/1231/c11547a249635/page.htm).  
 
-# 📝 Skill & Publications 
+# 📝 Skill
 - Verilog/SystemVerilog/VHDL · FPGA · MS Office · Linux · Cadence Tool(Virtuoso,Incisive,Genus,Innovus)
 - Python · C/C++ · SystemC · MATLAB · LaTex · CUDA · Pytorch · Perl/TCL/Shell
 - Mandarian(Native), TOEFL(iBT) 92
@@ -128,7 +128,7 @@ Here is my [CV](https://BoChen-Ye.github.io/files/CV_graduation.pdf).
 
 - **[Digital Design and Computer Architecture](https://safari.ethz.ch/digitaltechnik/doku.php)**, ETH.
 	- beignner.
-	
+
 # 🎖 Honors and Awards
 - *2022,* My bachelor thesis of NoC get A grade.
 - *2021/2022,* Unergraduate Scholarship. 

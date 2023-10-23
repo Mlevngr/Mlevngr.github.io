@@ -6,8 +6,8 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Publications"
-    url: "/#-skill-&-publications"
+  - title: "Skill"
+    url: "/#-skill"
 
   - title: "Educations"
     url: "/#-educations"
@@ -25,7 +25,7 @@ main:
     url: "/#-honors-and-awards"
 
   - title: "Extracurricular Activities"
-    url: "/#-Extracurricular-Activities"
+    url: "/#-extracurricular-activities"
 
 
 
