@@ -9,14 +9,24 @@ main:
   - title: "Publications"
     url: "/#-skill-&-publications"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
-
   - title: "Educations"
     url: "/#-educations"
+ 
+  - title: "Internships"
+    url: "/#-internships"
 
   - title: "Project"
     url: "/#-project"
+    
+  - title: "Self-Studying"
+    url: "/#-Self-Studying"
+    
+  - title: "Honors and Awards"
+    url: "/#-honors-and-awards"
 
-  - title: "Internships"
-    url: "/#-internships"
+  - title: "Extracurricular Activities"
+    url: "/#-Extracurricular-Activities"
+
+
+
+
