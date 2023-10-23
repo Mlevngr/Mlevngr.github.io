@@ -38,7 +38,7 @@ Here is my [CV](https://BoChen-Ye.github.io/files/CV_graduation.pdf).
 # 🏫 Educations
 - *2022.09 - now*, Master in Eletrical Engneering(track:Electronic System), **Eindhoven University of Technology**, Netherlands
 
-	*GPA*: 7/10
+	*GPA*: [7/10](https://BoChen-Ye.github.io/files/transcript_Master.pdf)
 
 	*Relevant Course*: Digital integrated circuit design, Embedded computer architecture, Electronic design automation,
 					Applied combinatorial algorithms, Intelligent architectures(focus on DNN/Hardware co-design), 
@@ -46,7 +46,7 @@ Here is my [CV](https://BoChen-Ye.github.io/files/CV_graduation.pdf).
 
 - *2018.09 - 2022.07*, Bachelor in Integrated Circuit Design and Integrated Systems, **Hefei University of Technology**, Hefei, China
 	
-	*GPA*: 83.1/100 (TOP 22%)
+	*GPA*: [83.1/100](https://BoChen-Ye.github.io/files/Transcript-Ye-Bochen.pdf) (TOP 22%)
 	
 	*Relevant Class*: Analysis and Design of Integrated Digital Circuit, Microprocessor architecture and design,
 					Introduction to SoC design, Verilog HDL and FPGA implementation and so on.
@@ -132,3 +132,23 @@ Here is my [CV](https://BoChen-Ye.github.io/files/CV_graduation.pdf).
 # 🎖 Honors and Awards
 - *2022,* My bachelor thesis of NoC get A grade.
 - *2021/2022,* Unergraduate Scholarship. 
+
+# Extracurricular Activities 
+- *2019.03 - 2020.07,* **HFUT Innovation and Entrepreneurship @ Big Data Center**
+	Director, External Relations Department
+
+	- Participated in writing the introduction of the center. Led the Computer Science College's party branch in visiting and introducing the Big Data Center and led high school students from Hefei to visit the center.
+	-  Organized and planned the Innovation and Entrepreneurship Forum at the Big Data Center. Invited teachers from various colleges to give lectures. Attracted active participation from 500 students across the university.
+    - Participated in editing the WeChat official account of INOW Creators.
+
+- *2019.09 - 2020.07,* **Hefei University of Technology Electronics Science Association**
+	Director, Organizing Department
+
+	- Responsible for the Organization Department of the new District's daily work, organized and planned the new district association recruitment activities, thus the association became the largest association at our university.
+    - Coordinated the students' Union and other departments, carried out targeted basic teaching work, held "no innovation, not young" electronic science and technology exchange lectures and other activities, the association was rated as the annual model association.
+
+- *2019.09 - 2020.07,* **Microelectronics College Student Union**
+	Director, Innovation and Entrepreneurship Department
+	
+	- Responsible for organizing and promoting the Microelectronics College Innovation and Entrepreneurship Competition and the National College Student Electronics Design Competition training.
+	- Actively collaborated with the Big Data Center to facilitate the entry of Microelectronics College's innovation teams into the center.
