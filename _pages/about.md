@@ -24,7 +24,7 @@ Here is my [CV](https://BoChen-Ye.github.io/files/CV_graduation.pdf).
 
 
 # 📯 News
-- *2023.10*: &nbsp;🎉🎉 I finished my internship at Intrinsic ID.
+- *2023.10*: &nbsp;🎉🎉 I finished my internship at Intrinsic ID and got 8.5 of internship. I also start my research on Neuromorphic at TU/e.
 - *2023.07*: &nbsp;🎉🎉 I will be an intern at **[Intrinsic ID](https://www.intrinsic-id.com/)** for 3.5 months, supervised by Rui Wang(Intrinsic ID), Roel Maes(Intrinsic ID) and [Manil Dev Gomony](https://www.tue.nl/en/research/researchers/manil-dev-gomony)(TU/e & Nokia Bell Labs).
 - *2022.09*: &nbsp;🎉🎉 I started my master's study at TU/e.
 - *2022.07*: &nbsp;🎉🎉 I am graduated from Hefei University of Technology with a bachelor’s degree, supervised by [Zhenmin Li](https://wdzxy.hfut.edu.cn/2020/1231/c11547a249635/page.htm).  
@@ -36,24 +36,22 @@ Here is my [CV](https://BoChen-Ye.github.io/files/CV_graduation.pdf).
 
 
 # 🏫 Educations
-## **Eindhoven University of Technology**, Netherlands
-- *2022.09 - now*, Master in Eletrical Engneering(track:Electronic System) 
-
-	*GPA*: [7.5/10](https://BoChen-Ye.github.io/files/transcript_Master.pdf)
-
-	*Relevant Course*: Digital integrated circuit design, Embedded computer architecture, Electronic design automation,
+## 2022.09-Now, Eindhoven University of Technology, Netherlands
+- Master in Eletrical Engneering(track:Electronic System) 
+- *GPA*: [7.5/10](https://BoChen-Ye.github.io/files/transcript_Master.pdf)
+- *Relevant Course*: Digital integrated circuit design, Embedded computer architecture, Electronic design automation,
 					Applied combinatorial algorithms, Intelligent architectures(focus on DNN/Hardware co-design), 
 					Systems on silicon(focus on SoC backend), Neuro computation(focus on Neuromorphic computing).
 
-- *2018.09 - 2022.07*, Bachelor in Integrated Circuit Design and Integrated Systems, **Hefei University of Technology**, Hefei, China
-	
-	*GPA*: [83.1/100](https://BoChen-Ye.github.io/files/Transcript-Ye-Bochen.pdf) (TOP 22%)
-	
-	*Relevant Class*: Analysis and Design of Integrated Digital Circuit, Microprocessor architecture and design,
+## 2018.09 - 2022.07, Hefei University of Technology, China
+- Bachelor in Integrated Circuit Design and Integrated Systems, 
+- *GPA*: [83.1/100](https://BoChen-Ye.github.io/files/Transcript-Ye-Bochen.pdf) (TOP 22%)
+- *Relevant Class*: Analysis and Design of Integrated Digital Circuit, Microprocessor architecture and design,
 					Introduction to SoC design, Verilog HDL and FPGA implementation and so on.
 
 # 💻 Internships
-- *2023.07 - 2023.10, IP Modeling and Digital IC Design Intern*, **Intrinsic ID**, Eindhoven NL
+## 2023.07 - 2023.10, Intrinsic ID, Eindhoven NL
+-  **IP Modeling and Digital IC Design Intern**
 
 	I am working in Research and Security Department. My work as follow:
 	- Study on a trellis-based Reed-Muller codec. 
@@ -62,7 +60,14 @@ Here is my [CV](https://BoChen-Ye.github.io/files/CV_graduation.pdf).
 	- Verify on Arty-z7 FPGA(zynq) with vivado and vitis.(Embeded System)
 	- Compare it with the existing Reed-Muller implementation based on traditional algorithms in terms of complexity and efficiency. This internship supervised by Manil Dev Gomony(Bell Lab & TU/e) and Rui Wang(Intrinsic ID).
 
-- *2021.10 - 2022.05, Research Intern*, **Institute of VLSI Design of HFUT**, China
+# 🔬Research Experience
+## 2023.10 - Now, Neuromorphic Research Student
+- Eindhoven University of Technology, Netherlands
+
+	- Focus on Neuromorphic Hardware Accelerator in Eletronic System group with Prof.Manil Dev Gomony.
+
+## 2021.10 - 2022.05, NoC Research Student 
+- Institute of VLSI Design of HFUT, China
 	
 	- Study the knowledge of [Network-on-Chip(NoC) Router Based on Packet Connected Circuit(PCC)](https://github.com/BoChen-Ye/Network-on-Chip-Router-Based-on-Packet-Connected-Circuit).
 	- Implementate the router and routing algorithm of PCC-NoC by using VerilogHDL.
