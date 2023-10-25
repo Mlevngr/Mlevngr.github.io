@@ -127,7 +127,7 @@ Here is my [CV](https://BoChen-Ye.github.io/files/CV_graduation.pdf).
 - *2022,* My bachelor thesis of NoC get A grade.
 - *2021/2022,* Unergraduate Scholarship. 
 
-# 🖊️ Activities
+# 🚩 Activities
 - *2019.03 - 2020.07,* **HFUT Innovation and Entrepreneurship @ Big Data Center**
 
 	Director, External Relations Department
