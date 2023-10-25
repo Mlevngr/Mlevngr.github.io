@@ -77,47 +77,35 @@ Here is my [CV](https://BoChen-Ye.github.io/files/CV_graduation.pdf).
 
 # 🔥 Project
 ## 2023.05 - 2023.06, Low power design and synthesis of SOC based on MIPS and AES
-	
-	- Used Verilog to design a SoC which include five-stage pipelined mMIPS processor core, AES encryption module, and AMBA bus and Used Cadence Incisive to simulation and functional verification.
-    - Used Cadence Genus for logic synthesis with low power strategies which is reduce 3% power consumption under 125MHz.
-    - Used Cadence Innovus for place and route with two power domain which is reduce 8% power consumption under 200MHz.
+- Used Verilog to design a SoC which include five-stage pipelined mMIPS processor core, AES encryption module, and AMBA bus and Used Cadence Incisive to simulation and functional verification.
+- Used Cadence Genus for logic synthesis with low power strategies which is reduce 3% power consumption under 125MHz.
+- Used Cadence Innovus for place and route with two power domain which is reduce 8% power consumption under 200MHz.
 
 ## 2023.02 - 2023.04, Inference acceleration of deep neural network based on TCU accelerator
-
-	- Train [a multilayer perceptron for handwritten digit classification(MNIST)](https://github.com/BoChen-Ye/MNIST-handwritten-digit-classification) using the PyTorch framework.
-	- Optimize a VGG5 for image classification using various quantization and pruning techniques. Explore the impact of these techniques on both accuracy and compute cost.
-	- Use open source [Tensil AI](https://www.tensil.ai/) for generating tensor computing units, compiling and running ML models on it. Accelerating matrix-multiplication for machine learning, using systolic array architecture.
+- Train [a multilayer perceptron for handwritten digit classification(MNIST)](https://github.com/BoChen-Ye/MNIST-handwritten-digit-classification) using the PyTorch framework.
+- Optimize a VGG5 for image classification using various quantization and pruning techniques. Explore the impact of these techniques on both accuracy and compute cost.
+- Use open source [Tensil AI](https://www.tensil.ai/) for generating tensor computing units, compiling and running ML models on it. Accelerating matrix-multiplication for machine learning, using systolic array architecture.
 
 ## 2023.02 - 2023.03, [Five-stage pipelined RISC-V processor with full hazard handling](https://github.com/BoChen-Ye/RISC-V-five-stage-CPU)
-
-	- I have implemented a RISC-V five-stage pipeline processor with full hazard handling. The RTL level design
-	using Verilog and simulated in Modelsim for simulation. The processor can run the basic RV32i instructions,
-	solves data conflicts, structure conflicts, and control conflicts, and supports stalling, flushing and forwarding.
+- I have implemented a RISC-V five-stage pipeline processor with full hazard handling. The RTL level design using Verilog and simulated in Modelsim for simulation. 
+- The processor can run the basic RV32i instructions, solves data conflicts, structure conflicts, and control conflicts, and supports stalling, flushing and forwarding.
 
 ## 2022.11 - 2023.01, Full Custom 16-bit Brent-Kung Adder Design
-
-	- Completed CMOS circuit design and layout design for a 45nm full custom 16-bit Brent-Kung adder. 
-	Circuit design and layout design via Cadence Virtuoso, DRC and LVS verification of the layout using Calibre. 
-	The circuit design can be functionally verified by simulation at 500MHz, 90◦C with an output rise and fall time of less than 100ps, and the layout results can be functionally verified at a post-simulation of 500MHz.
+- Completed CMOS circuit design and layout design for a 45nm full custom 16-bit Brent-Kung adder. Circuit design and layout design via Cadence Virtuoso, DRC and LVS verification of the layout using Calibre. The circuit design can be functionally verified by simulation at 500MHz, 90◦C with an output rise and fall time of less than 100ps, and the layout results can be functionally verified at a post-simulation of 500MHz.
 
 ## 2022.12 - 2023.01, Implementation of image processing kernels on CUDA
-
-	- Mapping Grayscale processing and convolution 2D kernels from C to CUDA and optimaize the loop, then running on the Nvidia GPU.
-	The result is that the processing time of 13 images is accelerated from 4872ms to 27ms.
+- Mapping Grayscale processing and convolution 2D kernels from C to CUDA and optimaize the loop, then running on the Nvidia GPU.
+- The result is that the processing time of 13 images is accelerated from 4872ms to 27ms.
 
 ## 2021.04 - 2021.06, A single-cycle CPU compatible with Microchip PIC16F54 microprocessor	
-
-	- The CPU is designed in modules, and each module uses Verilog HDL to design, which is implemented on the Basys3 after being verified by Modelsim pre-imitation. The complex C language load can run, and UART serial communication function controlled by softcore can be realized.
+- The CPU is designed in modules, and each module uses Verilog HDL to design, which is implemented on the Basys3 after being verified by Modelsim pre-imitation. The complex C language load can run, and UART serial communication function controlled by softcore can be realized.
 
 ## 2020.12 - 2021.01, Design of Lightweight System Based on SystemC
-
-	- Studying the structural design of soc, and use SystemC to write Bus and UART serial interface, function processing module, arbiter module, data receiving and sending module to form a lightweight system and verify it. Drive data enters two processing modules, and one of the results is selected by the arbiter in the bus and sent to the receiving module through UART interface and displayed.
+- Studying the structural design of soc, and use SystemC to write Bus and UART serial interface, function processing module, arbiter module, data receiving and sending module to form a lightweight system and verify it. Drive data enters two processing modules, and one of the results is selected by the arbiter in the bus and sent to the receiving module through UART interface and displayed.
 
 ## 2020.10 - 2020.11, VLSI Simulation and Synthesis	
-
-	- Use VCS to verify the function of Tinycore based on RISC-V on the test platform.
-	- Use DC compiler to synthesize four different hardware description ALUs, and analyze the comprehensive report
-	to compare and analyze different parameters.
+- Use VCS to verify the function of Tinycore based on RISC-V on the test platform.
+- Use DC compiler to synthesize four different hardware description ALUs, and analyze the comprehensive report to compare and analyze different parameters.
 
 # 📖Self-Studying
 - **[TinyML and Efficient Deep Learning Computing](https://efficientml.ai)**, MIT HAN LAB.
