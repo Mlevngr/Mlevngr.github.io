@@ -60,7 +60,7 @@ Here is my [CV](https://BoChen-Ye.github.io/files/CV_graduation.pdf).
 	- Verify on Arty-z7 FPGA(zynq) with vivado and vitis.(Embeded System)
 	- Compare it with the existing Reed-Muller implementation based on traditional algorithms in terms of complexity and efficiency. This internship supervised by Manil Dev Gomony(Bell Lab & TU/e) and Rui Wang(Intrinsic ID).
 
-# 🔬Research Experience
+# 🔬 Research Experience
 ## 2023.10 - Now, Neuromorphic Research Student
 - Eindhoven University of Technology, Netherlands
 
@@ -107,7 +107,7 @@ Here is my [CV](https://BoChen-Ye.github.io/files/CV_graduation.pdf).
 - Use VCS to verify the function of Tinycore based on RISC-V on the test platform.
 - Use DC compiler to synthesize four different hardware description ALUs, and analyze the comprehensive report to compare and analyze different parameters.
 
-# 📖Self-Studying
+# 📖 Self-Studying
 - **[TinyML and Efficient Deep Learning Computing](https://efficientml.ai)**, MIT HAN LAB.
 	
 	- Current progress: Neural Architecture Search part I.

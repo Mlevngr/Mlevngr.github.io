@@ -15,14 +15,11 @@ main:
   - title: "Internships"
     url: "/#-internships"
 
-  - title: "Research Experience"
+  - title: "Research"
     url: "/#-research-experience"
 
   - title: "Project"
     url: "/#-project"
-    
-  - title: "Self-Studying"
-    url: "/#-self-studying"
     
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
