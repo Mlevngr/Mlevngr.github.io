@@ -36,7 +36,8 @@ Here is my [CV](https://BoChen-Ye.github.io/files/CV_graduation.pdf).
 
 
 # 🏫 Educations
-- *2022.09 - now*, Master in Eletrical Engneering(track:Electronic System), **Eindhoven University of Technology**, Netherlands
+## **Eindhoven University of Technology**, Netherlands
+- *2022.09 - now*, Master in Eletrical Engneering(track:Electronic System) 
 
 	*GPA*: [7.5/10](https://BoChen-Ye.github.io/files/transcript_Master.pdf)
 
