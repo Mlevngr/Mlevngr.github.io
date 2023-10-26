@@ -58,7 +58,7 @@ Here is my [CV](https://BoChen-Ye.github.io/files/CV_graduation.pdf).
 	- Use Python modeling it as a digital IP module.(software)
 	- Design the architecture of codec and implementation by VHDL.(harware)
 	- Verify on Arty-z7 FPGA(zynq) with vivado and vitis.(Embeded System)
-	- Compare it with the existing Reed-Muller implementation based on traditional algorithms in terms of complexity and efficiency. This internship supervised by Manil Dev Gomony(Bell Lab & TU/e) and Rui Wang&Roel Maes(Intrinsic ID).
+	- Compare it with the existing Reed-Muller implementation based on traditional algorithms in terms of complexity and efficiency. This internship supervised by Manil Dev Gomony(Bell Lab & TU/e) and Rui Wang & Roel Maes(Intrinsic ID).
 
 # 🔬 Research Experience
 ## 2023.10 - Now, Neuromorphic Research Student
@@ -80,7 +80,7 @@ Here is my [CV](https://BoChen-Ye.github.io/files/CV_graduation.pdf).
 - Used Verilog to design a SoC which include five-stage pipelined mMIPS processor core, AES encryption module, and AMBA bus and Used Cadence Incisive to simulation and functional verification.
 - Used Cadence Genus for logic synthesis with low power strategies which is reduce 3% power consumption under 125MHz.
 - Used Cadence Innovus for place and route with two power domain which is reduce 8% power consumption under 200MHz.
-![Layout](images/layout.png)
+
 
 ## 2023.02 - 2023.04, Inference acceleration of deep neural network based on TCU accelerator
 - Train [a multilayer perceptron for handwritten digit classification(MNIST)](https://github.com/BoChen-Ye/MNIST-handwritten-digit-classification) using the PyTorch framework.
