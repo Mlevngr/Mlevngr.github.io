@@ -80,7 +80,7 @@ Here is my [CV](https://BoChen-Ye.github.io/files/CV_graduation.pdf).
 - Used Verilog to design a SoC which include five-stage pipelined mMIPS processor core, AES encryption module, and AMBA bus and Used Cadence Incisive to simulation and functional verification.
 - Used Cadence Genus for logic synthesis with low power strategies which is reduce 3% power consumption under 125MHz.
 - Used Cadence Innovus for place and route with two power domain which is reduce 8% power consumption under 200MHz.
-(https://github.com/BoChen-Ye/BoChen-Ye.github.io/blob/main/images/layout.png)
+![Layout](images/layout.png)
 
 ## 2023.02 - 2023.04, Inference acceleration of deep neural network based on TCU accelerator
 - Train [a multilayer perceptron for handwritten digit classification(MNIST)](https://github.com/BoChen-Ye/MNIST-handwritten-digit-classification) using the PyTorch framework.
