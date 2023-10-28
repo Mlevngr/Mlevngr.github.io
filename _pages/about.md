@@ -134,7 +134,7 @@ Director, External Relations Department
 -  Organized and planned the Innovation and Entrepreneurship Forum at the Big Data Center. Invited teachers from various colleges to give lectures. Attracted active participation from 500 students across the university.
 - Participated in editing the WeChat official account of INOW Creators.
 
-## 2019.09 - 2020.07, Electronics and Science Association(Hefei University of Technology)
+## 2019.09 - 2020.07, HFUT Electronics and Science Association
 Director, Organizing Department
 - Responsible for the Organization Department of the new District's daily work, organized and planned the new district association recruitment activities, thus the association became the largest association at our university.
 - Coordinated the students' Union and other departments, carried out targeted basic teaching work, held "no innovation, not young" electronic science and technology exchange lectures and other activities, the association was rated as the annual model association.
