@@ -81,7 +81,6 @@ Here is my [CV](https://BoChen-Ye.github.io/files/CV_graduation.pdf).
 - Used Cadence Genus for logic synthesis with low power strategies which is reduce 3% power consumption under 125MHz.
 - Used Cadence Innovus for place and route with two power domain which is reduce 8% power consumption under 200MHz.
 
-
 ## 2023.02 - 2023.04, Inference acceleration of deep neural network based on TCU accelerator
 - Train [a multilayer perceptron for handwritten digit classification(MNIST)](https://github.com/BoChen-Ye/MNIST-handwritten-digit-classification) using the PyTorch framework.
 - Optimize a VGG5 for image classification using various quantization and pruning techniques. Explore the impact of these techniques on both accuracy and compute cost.
