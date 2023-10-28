@@ -64,7 +64,7 @@ Here is my [CV](https://BoChen-Ye.github.io/files/CV_graduation.pdf).
 ## 2023.10 - Now, Neuromorphic Research Student
 - Eindhoven University of Technology, Netherlands
 
-	- Focus on Neuromorphic Hardware Accelerator in Eletronic System group with Prof.Manil Dev Gomony.
+	- Focus on Neuromorphic Hardware Accelerator in Eletronic System group with Prof. Manil Dev Gomony, Prof. Federico Corradi, and Prof. Henk Corporaal.
 
 ## 2021.10 - 2022.05, NoC Research Student 
 - Institute of VLSI Design of HFUT, China
