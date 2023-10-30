@@ -50,6 +50,14 @@ Here is my [CV](https://BoChen-Ye.github.io/files/CV_graduation.pdf).
 					Introduction to SoC design, Verilog HDL and FPGA implementation and so on.
 
 # 💻 Internships
+## 2023.11 - Now, Linear Capital, China(remote)
+- **Oversea Intern**
+
+	During my internship at Linear Capital, my responsibilities included:
+	- Mapping overseas Chinese talent in the academic and industrial sectors, providing vital insights for project recruitment and business collaborations.
+	- Conducting assessments for the commercialization and implementation of potential projects, analyzing market opportunities and risks to support investment decisions.
+	- Participating in the planning and execution of early-stage investments, collaborating with startups to drive project success.
+	
 ## 2023.07 - 2023.10, Intrinsic ID, Eindhoven NL
 -  **IP Modeling and Digital IC Design Intern**
 
