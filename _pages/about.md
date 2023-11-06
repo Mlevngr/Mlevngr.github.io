@@ -118,8 +118,7 @@ Here is my [CV](https://BoChen-Ye.github.io/files/CV_graduation.pdf).
 # 📖 Self-Studying
 - **[TinyML and Efficient Deep Learning Computing](https://efficientml.ai)**, MIT HAN LAB.
 	
-	- Current progress: Neural Architecture Search part I.
-	- Content: Basics of Deep Learning, Pruning and Sparsity, Quantization, Neural Architecture Search
+	- Content: Basics of Deep Learning, Pruning and Sparsity, Quantization, Neural Architecture Search, Knowledge distillation.
 
 - **[一生一芯ysyx](https://ysyx.oscc.cc/)**, Institute of Computing technology, CAS.
 
