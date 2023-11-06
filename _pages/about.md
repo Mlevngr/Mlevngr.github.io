@@ -116,6 +116,14 @@ Here is my [CV](https://BoChen-Ye.github.io/files/CV_graduation.pdf).
 - Use DC compiler to synthesize four different hardware description ALUs, and analyze the comprehensive report to compare and analyze different parameters.
 
 # 📖 Self-Studying
+- **[The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)**, MIT.
+
+	- Content: Shell Tools and Scriptin, Editors (Vim), Data Wrangling, Command-line Environment, Version Control (Git). Debugging and Profiling, Metaprogramming, Security and Cryptography, Potpourri.
+
+- **[How to Start a Startup](https://startupclass.samaltman.com/)**, Sam Altman in Stanford.
+
+	- Current progress: Lecture 2 - Team and Execution (Sam Altman).
+
 - **[TinyML and Efficient Deep Learning Computing](https://efficientml.ai)**, MIT HAN LAB.
 	
 	- Content: Basics of Deep Learning, Pruning and Sparsity, Quantization, Neural Architecture Search, Knowledge distillation.
