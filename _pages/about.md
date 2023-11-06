@@ -37,16 +37,16 @@ Here is my [CV](https://BoChen-Ye.github.io/files/CV_graduation.pdf).
 
 # 🏫 Educations
 ## 2022.09-Now, Eindhoven University of Technology, Netherlands
-- Master in Eletrical Engneering(track:Electronic System) 
-- *GPA*: [7.5/10](https://BoChen-Ye.github.io/files/transcript_Master.pdf)
-- *Relevant Course*: Digital integrated circuit design, Embedded computer architecture, Electronic design automation,
+- **Msc.Eletrical Engneering**(track:Electronic System) 
+- **GPA:** [7.5/10](https://BoChen-Ye.github.io/files/transcript_Master.pdf)
+- **Relevant Course:** Digital integrated circuit design, Embedded computer architecture, Electronic design automation,
 					Applied combinatorial algorithms, Intelligent architectures(focus on DNN/Hardware co-design), 
 					Systems on silicon(focus on SoC backend), Neuro computation(focus on Neuromorphic computing).
 
 ## 2018.09 - 2022.07, Hefei University of Technology, China
-- Bachelor in Integrated Circuit Design and Integrated Systems, 
-- *GPA*: [83.1/100](https://BoChen-Ye.github.io/files/Transcript-Ye-Bochen.pdf) (TOP 22%)
-- *Relevant Class*: Analysis and Design of Integrated Digital Circuit, Microprocessor architecture and design,
+- **Bachelor** in Integrated Circuit Design and Integrated Systems 
+- **GPA:** [83.1/100](https://BoChen-Ye.github.io/files/Transcript-Ye-Bochen.pdf) (TOP 22%)
+- **Relevant Class:** Analysis and Design of Integrated Digital Circuit, Microprocessor architecture and design,
 					Introduction to SoC design, Verilog HDL and FPGA implementation and so on.
 
 # 💻 Internships
