@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 I am studying at TU/e for my master degree. I got my bachelor degree from Hefei University of Technology(HFUT), China.
 
-I am interested in **VLSI/ASIC Design, Neuromorphic Hardware, Effient AI Hardware Accelerator and NoC**.
+I am interested in **VLSI/ASIC Design, NoC, Neuromorphic Hardware and Effient AI Hardware Accelerator**.
 
 Here is my [CV](https://BoChen-Ye.github.io/files/CV_graduation.pdf).
 
@@ -32,7 +32,7 @@ Here is my [CV](https://BoChen-Ye.github.io/files/CV_graduation.pdf).
 
 # 📝 Skill
 - **Professional:** Verilog/SystemVerilog/VHDL · FPGA · MS Office · Linux · Cadence Tool(Virtuoso,Incisive,Genus,Innovus)
-- **Miscellaneous:** Python · C/C++ · SystemC · MATLAB · LaTex · CUDA · Pytorch · Perl/TCL/Shell
+- **Miscellaneous:** Python · C/C++ · SystemC · MATLAB · LaTex · CUDA · Pytorch · Perl/TCL/Shell · Git
 - **Language:** Mandarian(Native), TOEFL(iBT) 92
 
 # 🏫 Educations
@@ -72,7 +72,8 @@ Here is my [CV](https://BoChen-Ye.github.io/files/CV_graduation.pdf).
 ## 2023.10 - Now, Neuromorphic Research Student
 - Eindhoven University of Technology, Netherlands
 
-	- Focus on Neuromorphic Hardware Accelerator in Eletronic System group with Prof. Manil Dev Gomony, Prof. Federico Corradi, and Prof. Henk Corporaal.
+	- Focus on Neuromorphic Hardware Accelerator and Neuromorphic NoC for CMPs.
+	- Work in Eletronic System group with Prof. Manil Dev Gomony, Prof. Federico Corradi, and Prof. Henk Corporaal.
 
 ## 2021.10 - 2022.05, NoC Research Student 
 - Institute of VLSI Design of HFUT, China
@@ -122,7 +123,7 @@ Here is my [CV](https://BoChen-Ye.github.io/files/CV_graduation.pdf).
 
 - **[How to Start a Startup](https://startupclass.samaltman.com/)**, Sam Altman in Stanford.
 
-	- Current progress: Lecture 2 - Team and Execution (Sam Altman).
+	- Current progress: Lecture 3.
 
 - **[TinyML and Efficient Deep Learning Computing](https://efficientml.ai)**, MIT HAN LAB.
 	
