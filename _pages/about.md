@@ -93,7 +93,7 @@ Here is my [CV](https://BoChen-Ye.github.io/files/CV.pdf).
 ## 2023.02 - 2023.04, Inference acceleration of deep neural network based on TCU accelerator
 - Train [a multilayer perceptron for handwritten digit classification(MNIST)](https://github.com/BoChen-Ye/MNIST-handwritten-digit-classification) using the PyTorch framework.
 - Optimize a VGG5 for image classification using various quantization and pruning techniques. Explore the impact of these techniques on both accuracy and compute cost.
-- Use open source [Tensil AI](https://www.tensil.ai/) for generating tensor computing units, compiling and running ML models on it. Accelerating matrix-multiplication for machine learning, using systolic array architecture.
+- Use open source [Tensil AI](https://www.tensil.ai/) for generating tensor computing units(TCU), compiling and accelerating ResNet20 by systolic array on PYNQ . 
 
 ## 2023.02 - 2023.03, [Five-stage pipelined RISC-V processor with full hazard handling](https://github.com/BoChen-Ye/RISC-V-five-stage-CPU)
 - I have implemented a RISC-V five-stage pipeline processor with full hazard handling. The RTL level design using Verilog and simulated in Modelsim for simulation. 
