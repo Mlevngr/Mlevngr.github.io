@@ -79,7 +79,7 @@ Here is my [CV](https://BoChen-Ye.github.io/files/CV.pdf).
 - Institute of VLSI Design of HFUT, China
 	
 	- Study the knowledge of [Network-on-Chip(NoC) Router Based on Packet Connected Circuit(PCC)](https://github.com/BoChen-Ye/Network-on-Chip-Router-Based-on-Packet-Connected-Circuit).
-	- Implementate the router and routing algorithm of PCC-NoC by using VerilogHDL.
+	- Implement the router and routing algorithm of PCC-NoC by using VerilogHDL.
 	- Verify it on FPGA and use UART(with FIFO) to communicate with PC.
 	- Use Python to verify result automatically.
 	- This project as my bachelor graduation project got A and advised by Zhenmin Li(HFUT).
