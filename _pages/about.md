@@ -20,7 +20,7 @@ I am studying at TU/e for my master degree. I got my bachelor degree from Hefei 
 
 I am interested in **VLSI/ASIC Design, NoC, Neuromorphic Hardware and Effient AI Hardware Accelerator**.
 
-Here is my [CV](https://BoChen-Ye.github.io/files/CV_graduation.pdf).
+Here is my [CV](https://BoChen-Ye.github.io/files/CV.pdf).
 
 
 # 📯 News
@@ -73,7 +73,7 @@ Here is my [CV](https://BoChen-Ye.github.io/files/CV_graduation.pdf).
 - Eindhoven University of Technology, Netherlands
 
 	- Focus on Neuromorphic Hardware Accelerator and Neuromorphic NoC for CMPs.
-	- Work in Eletronic System group with Prof. Manil Dev Gomony, Prof. Federico Corradi, and Prof. Henk Corporaal.
+	- Work in Eletronic System group with Prof. Manil Dev Gomony, Prof. [Federico Corradi](https://www.tue.nl/en/research/researchers/federico-corradi), and Prof. [Henk Corporaal](https://www.tue.nl/en/research/researchers/henk-corporaal).
 
 ## 2021.10 - 2022.05, NoC Research Student 
 - Institute of VLSI Design of HFUT, China
