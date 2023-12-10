@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 I am studying at TU/e for my master degree. I got my bachelor degree from Hefei University of Technology(HFUT), China.
 
-I am interested in **VLSI/ASIC Design, NoC, Neuromorphic Hardware and Effient AI Hardware Accelerator**.
+I am interested in **VLSI/ASIC Design, NoC, Neuromorphic Hardware and Efficient AI Hardware Accelerator**.
 
 Here is my [CV](https://BoChen-Ye.github.io/files/CV.pdf).
 
