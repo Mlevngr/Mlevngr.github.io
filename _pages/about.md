@@ -24,7 +24,7 @@ Here is my [CV](https://BoChen-Ye.github.io/files/CV.pdf).
 
 
 # 📯 News
-- *2023.11*: &nbsp;🎉🎉 I work as an Oversea Intern at [Linear Capital](https://www.linear.vc/).
+- *2023.11*: &nbsp;🎉🎉 I started working as a Oversea Intern(Remote) at [Linear Capital](https://www.linear.vc/).
 - *2023.10*: &nbsp;🎉🎉 I finished my internship at Intrinsic ID and got 8.5 of internship. I also start my research on Neuromorphic at TU/e.
 - *2023.07*: &nbsp;🎉🎉 I will be an intern at **[Intrinsic ID](https://www.intrinsic-id.com/)** for 3.5 months, supervised by [Rui Wang](https://www.linkedin.com/in/rui-wang-a4499611b/)(Intrinsic ID), [Roel Maes](https://www.linkedin.com/in/roel-maes-37ba4a4/)(Intrinsic ID) and [Manil Dev Gomony](https://www.tue.nl/en/research/researchers/manil-dev-gomony)(TU/e & Nokia Bell Labs).
 - *2022.09*: &nbsp;🎉🎉 I started my master's study at TU/e.
@@ -54,7 +54,7 @@ Here is my [CV](https://BoChen-Ye.github.io/files/CV.pdf).
 - **Oversea Intern**
 
 	During my internship at Linear Capital, my responsibilities included:
-	- Mapping overseas Chinese talent in the academic and industrial sectors, providing vital insights for project recruitment and business collaborations.
+	- Mapping overseas talent in the academic and industrial sectors, providing vital insights for project recruitment and business collaborations.
 	- Conducting assessments for the commercialization and implementation of potential projects, analyzing market opportunities and risks to support investment decisions.
 	- Participating in the planning and execution of early-stage investments, collaborating with startups to drive project success.
 	
@@ -73,7 +73,7 @@ Here is my [CV](https://BoChen-Ye.github.io/files/CV.pdf).
 - Eindhoven University of Technology, Netherlands
 
 	- Focus on Neuromorphic Hardware Accelerator and Neuromorphic NoC for CMPs.
-	- Work in Eletronic System group with Prof. Manil Dev Gomony, Prof. [Federico Corradi](https://www.tue.nl/en/research/researchers/federico-corradi), and Prof. [Henk Corporaal](https://www.tue.nl/en/research/researchers/henk-corporaal).
+	- Work in Eletronic System group with Prof. [Manil Dev Gomony](https://www.tue.nl/en/research/researchers/manil-dev-gomony), Prof. [Federico Corradi](https://www.tue.nl/en/research/researchers/federico-corradi), and Prof. [Henk Corporaal](https://www.tue.nl/en/research/researchers/henk-corporaal).
 
 ## 2021.10 - 2022.05, NoC Research Student 
 - Institute of VLSI Design of HFUT, China
@@ -133,10 +133,12 @@ Here is my [CV](https://BoChen-Ye.github.io/files/CV.pdf).
 
 	- Current progress: Prestudy->Stop.
 
-- **Asynchronous VLSI Design**, USC.
-	- beignner.
+- **[SoC 101](https://www.youtube.com/playlist?list=PLZU5hLL_713ygweO3b_9KiZUJuEI7I5yK)**, Adam Teman(Bar-Ilan University).
+	
+	- Focus on SoC architecture.
 
 - **[Digital Design and Computer Architecture](https://safari.ethz.ch/digitaltechnik/doku.php)**, ETH.
+	
 	- beignner.
 
 # 🎖 Honors and Awards
