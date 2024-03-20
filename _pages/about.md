@@ -51,7 +51,7 @@ Here is my [CV](https://BoChen-Ye.github.io/files/CV.pdf).
 					Introduction to SoC design, Verilog HDL and FPGA implementation and so on.
 
 # 💻 Internships
-## 2024.037 - 2023.11, NXP Semidocutors, Nijmegen NL
+## 2024.03 - 2024.11, NXP Semidocutors, Nijmegen NL
 -  **Digital Design Intern**
 
 	- Define a custom digital communication protocol between two ICs
@@ -66,7 +66,7 @@ Here is my [CV](https://BoChen-Ye.github.io/files/CV.pdf).
 	- Conducting assessments for the commercialization and implementation of potential projects, analyzing market opportunities and risks to support investment decisions.
 	- Participating in the planning and execution of early-stage investments, collaborating with startups to drive project success.
 	
-## 2023.07 - 2023.10, Intrinsic ID, Eindhoven NL
+## 2023.07 - 2023.10, Intrinsic ID(Now acquired by Synopsys), Eindhoven NL
 -  **IP Modeling and Digital IC Design Intern**
 
 	I am working in Research and Security Department. My work as follow:
@@ -77,7 +77,7 @@ Here is my [CV](https://BoChen-Ye.github.io/files/CV.pdf).
 	- Compare it with the existing Reed-Muller implementation based on traditional algorithms in terms of complexity and efficiency. This internship supervised by Manil Dev Gomony(Bell Lab & TU/e) and Rui Wang & Roel Maes(Intrinsic ID).
 
 # 🔬 Research Experience
-## 2023.10 - Now, Neuromorphic Research Student
+## 2023.10 - 2024.02, Neuromorphic Research Student
 - Eindhoven University of Technology, Netherlands
 
 	- Focus on Neuromorphic Hardware Accelerator and Neuromorphic NoC for CMPs.
