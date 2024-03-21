@@ -16,40 +16,36 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am studying at TU/e for my master degree. I got my bachelor degree from Hefei University of Technology(HFUT), China.
+Persuing at TU/e for master degree. Bachelor degree from Zhejiang University(ZJU), China.
 
-I am interested in **VLSI/ASIC Design, NoC, Neuromorphic Hardware and Efficient AI Hardware Accelerator**.
+Interested in **FPGA Design, Deep Learning, Neuromorphic Hardware and Efficient AI Hardware Accelerator**.
 
-Here is my [CV](https://BoChen-Ye.github.io/files/CV.pdf).
+My [CV](https://Mlevngr.github.io/files/CV.pdf).
 
 
 # 📯 News
-- *2024.03*: &nbsp;🎉🎉 Congratulations **[Intrinsic ID](https://www.intrinsic-id.com/)** is acquired by **[Synopsys](https://www.synopsys.com/)**.
-- *2024.03*: &nbsp;🎉🎉 I change my master thesis to **[NXP Semiconductors](https://www.nxp.com/)** in Nijmegen.
-- *2023.11*: &nbsp;🎉🎉 I started working as a Oversea VC Intern(Remote) at [Linear Capital](https://www.linear.vc/).
-- *2023.10*: &nbsp;🎉🎉 I finished my internship at Intrinsic ID and got 8.5 of internship. I also start my research on Neuromorphic at TU/e.
-- *2023.07*: &nbsp;🎉🎉 I will be an intern at **[Intrinsic ID](https://www.intrinsic-id.com/)** for 3.5 months, supervised by [Rui Wang](https://www.linkedin.com/in/rui-wang-a4499611b/)(Intrinsic ID), [Roel Maes](https://www.linkedin.com/in/roel-maes-37ba4a4/)(Intrinsic ID) and [Manil Dev Gomony](https://www.tue.nl/en/research/researchers/manil-dev-gomony)(TU/e & Nokia Bell Labs).
-- *2022.09*: &nbsp;🎉🎉 I started my master's study at TU/e.
-- *2022.07*: &nbsp;🎉🎉 I am graduated from Hefei University of Technology with a bachelor degree, supervised by [Zhenmin Li](https://wdzxy.hfut.edu.cn/2020/1231/c11547a249635/page.htm).  
+- *2023.11*: &nbsp;🎉🎉 I finished my internship at NECS Lab. I also start my research on reconfigurable Spiking Neural Network template at TU/e.
+- *2023.07*: &nbsp;🎉🎉 I will be an intern at **[NECS Lab](https://www.tue.nl/en/research/research-groups/electronic-systems/neuromorphic-edge-computing-systems-lab)** for 3.5 months, supervised by [Federico Corradi](linkedin.com/in/federico-corradi-19a69a17)(Eindhoven University of Technology) and [Nikolaos Alachiotis](linkedin.com/in/nikolaos-alachiotis-99083532)(University of Twente).
+- *2022.09*: &nbsp;🎉🎉 I started my master's study at TU/e. 
 
 # 📝 Skill
-- **Professional:** Verilog/SystemVerilog/VHDL · FPGA · MS Office · Linux · Cadence Tool(Virtuoso,Incisive,Genus,Innovus)
-- **Miscellaneous:** Python · C/C++ · SystemC · MATLAB · LaTex · CUDA · Pytorch · Perl/TCL/Shell · Git
-- **Language:** Mandarian(Native), TOEFL(iBT) 92
+- **Professional:** Xilinx Vivado · MS Office · Linux · Cadence Tool(Virtuoso,Incisive,Genus,Innovus) · 
+- **Miscellaneous:** Python · C/C++ · Xilinx Vitis HLS · MATLAB · LaTex · CUDA · Pytorch · Eclipse Poosl · Git
+- **Language:** Mandarian(Native), IELTS 7.5(L: 8.5, R: 8, W: 6.5, S: 6)
 
 # 🏫 Educations
 ## 2022.09-Now, Eindhoven University of Technology, Netherlands
 - **Msc.Eletrical Engneering**(track:Electronic System) 
-- **GPA:** [7.5/10](https://BoChen-Ye.github.io/files/transcript_Master.pdf)
+- **GPA:** [7.4/10](https://Mlevngr.github.io/files/grade_master.pdf)
 - **Relevant Course:** Digital integrated circuit design, Embedded computer architecture, Electronic design automation,
-					Applied combinatorial algorithms, Intelligent architectures(focus on DNN/Hardware co-design), 
+					Multiprocessors, Intelligent architectures(focus on DNN/Hardware co-design), 
 					Systems on silicon(focus on SoC backend), Neuro computation(focus on Neuromorphic computing).
 
-## 2018.09 - 2022.07, Hefei University of Technology, China
-- **Bachelor** in Integrated Circuit Design and Integrated Systems 
-- **GPA:** [83.1/100](https://BoChen-Ye.github.io/files/Transcript-Ye-Bochen.pdf) (TOP 22%)
-- **Relevant Class:** Analysis and Design of Integrated Digital Circuit, Microprocessor architecture and design,
-					Introduction to SoC design, Verilog HDL and FPGA implementation and so on.
+## 2016.09 - 2020.07, Zhejiang University, China
+- **Bachelor**Electrical Engineering and Automation** 
+- **GPA:** [3.3/4](https://Mlevngr.github.io/files/grade_bachelor.pdf)
+- **Relevant Class:** Signal Analysis and Processing, Modeling and Analysis of Electric Machines and Drives, Power
+					Electronic Technology, Control of Electrical Machinary.
 
 # 💻 Internships
 ## 2024.03 - 2024.11, NXP Semidocutors, Nijmegen NL
