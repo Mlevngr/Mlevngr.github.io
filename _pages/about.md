@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 Persuing at TU/e for master degree. Bachelor degree from Zhejiang University(ZJU), China.
 
-Interested in **FPGA Design, Deep Learning, Neuromorphic Hardware and Efficient AI Hardware Accelerator**.
+Interested in **FPGA Design, Deep Learning, Neuromorphic Hardware and Algorithm-Hardware Co-design**.
 
 My [CV](https://Mlevngr.github.io/files/CV.pdf).
 
