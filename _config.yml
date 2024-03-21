@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Bochen Ye(叶波辰)"
+title                    : "Zhanbo Shen(沈展博)"
 description              : "Second-year Master in Electrical Engneering."
-repository               : "BoChen-Ye/BoChen-Ye.github.io"
+repository               : "Mlevngr/Mlevngr.github.io"
 google_scholar_stats_use_cdn : False
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Bochen Ye(叶波辰)"
-  avatar           : "images/photo.jpg"
+  name             : "Zhanbo Shen(沈展博)"
+  avatar           : "images/Zhanbo_1.png"
   bio              : "Eindhoven University of Technology"
-  location         : "Eindhoven, Netherlands"
+  location         : "Eindhoven, the Netherlands"
   employer         :
   pubmed           : 
   googlescholar    : #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "b.ye@student.tue.nl"
+  email            : "z.shen1@student.tue.nl"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,19 +37,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "BoChen-Ye"
+  github           : "Mlevngr"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "bochen-ye-455a42245/"
+  linkedin         : "linkedin.com/in/zhanbo-shen"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            : 76561198842522026
+  steam            : 76561198320308915
   tumblr           :
   twitter          : 
   vine             :
